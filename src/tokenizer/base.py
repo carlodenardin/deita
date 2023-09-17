@@ -35,9 +35,7 @@ class TokenizerFactory():
     """
 
     @staticmethod
-    def tokenizer(corpus: str, disable: Iterable[str] = ()):
-        logger.info('Tokenizer for corpus: {}'.format(corpus))
-
+    def tokenizer(disable: Iterable[str] = ()):
         from tokenizer.tokenizer_it import TokenizerIT
         return TokenizerIT(disable=disable)
     

@@ -122,7 +122,7 @@ def run_blistcrf():
 
     trainer.train(
         base_path = join(model_folder),
-        max_epochs = 3,
+        max_epochs = 1,
         mini_batch_size = 4,
         monitor_train = False,
         train_with_dev = False,

@@ -8,7 +8,7 @@ from typing import List
 
 class Document:
 
-    def __init__(self, name: str, text: str, annotations: List[Annotation]):
+    def __init__(self, name: str, text: str, annotations: List[Annotation] = ()):
         self.name = name
         self.text = text
         self.annotations = annotations

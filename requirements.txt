@@ -7,3 +7,4 @@ sklearn-crfsuite==0.3.6
 flair==0.7
 requests
 torch==1.7.1
+protobuf==3.20.*

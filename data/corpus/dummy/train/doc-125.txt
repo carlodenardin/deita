@@ -1,0 +1,47 @@
+Cartella Clinica del Paziente
+
+ID Paziente: 1940
+Nome Paziente: Emma
+Cognome Paziente: Collodi
+Data di Nascita Paziente: 12/05/1948
+
+Nome Dottore: Dottoressa Stefani
+Cognome Dottore: Villadicani
+Hospital: AZIENDA OSPEDALIERA SANT'ANDREA
+Municipality: ROMA
+
+Data di Ammissione: 03/06/2021
+Ora di Ammissione: 10:30
+
+Sintomi presentati al momento dell'ammissione:
+- Forte mal di testa persistente da diversi giorni
+- Confusione mentale
+- Difficoltà nel parlare correttamente
+- Debolezza generale
+
+Esami diagnostici effettuati:
+- Esame del sangue completo
+- Esame del liquido cerebrospinale
+- Tac cranica
+
+Nota del Dottore Stefani Villadicani - 03/06/2021:
+
+La paziente Emma Collodi è stata ammessa in ospedale questa mattina alle ore 10:30. All'arrivo, presentava sintomi di un forte mal di testa persistente da diversi giorni, accompagnato da confusione mentale, difficoltà nel parlare correttamente e debolezza generale. Sono stati eseguiti esami diagnostici, tra cui un esame del sangue completo, un esame del liquido cerebrospinale e una Tac cranica, al fine di identificare la causa dei sintomi.
+
+Nota del Dottore Stefani Villadicani - 04/06/2021:
+
+I risultati degli esami effettuati mostrano la presenza di un'emorragia cerebrale. La paziente è stata immediatamente sottoposta a un intervento chirurgico di emergenza per rimuovere l'emorragia e riparare eventuali danni. L'intervento è stato eseguito con successo e la paziente è attualmente in fase di recupero.
+
+Nota del Dottore Stefani Villadicani - 06/06/2021:
+
+La paziente Emma Collodi sta mostrando segni di miglioramento dopo l'intervento chirurgico e non presenta più sintomi di confusione mentale. È stata trasferita in una stanza di degenza generale per continuare la sua guarigione e verrà monitorata attentamente per eventuali complicazioni.
+
+Nota del Dottore Stefani Villadicani - 10/06/2021:
+
+La paziente Emma Collodi ha fatto ulteriori progressi nel suo recupero. È in grado di comunicare correttamente e si sta muovendo autonomamente. Sarà sottoposta a una serie di controlli e fisioterapia per aiutarla a recuperare completamente.
+
+Nota del Dottore Stefani Villadicani - 15/06/2021:
+
+La paziente Emma Collodi ha dimostrato una rapida guarigione e sta facendo ottimi progressi nel suo percorso di recupero. È stata dimessa dall'ospedale e le è stata fornita una guida dettagliata sulle cure di follow-up necessarie. Sono stati programmati degli appuntamenti di controllo regolari per garantire che il suo stato di salute continui a migliorare.
+
+Questa è la cartella clinica di Emma Collodi, paziente con ID 1940. Tutte le informazioni fornite sono basate su un ricovero presso l'Azienda Ospedaliera Sant'Andrea di Roma. Si prega di fare riferimento alle note del Dottor Stefani Villadicani per ulteriori dettagli sulla diagnosi e il percorso di cura della paziente.

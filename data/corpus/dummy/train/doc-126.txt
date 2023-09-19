@@ -1,0 +1,47 @@
+Fascicolo Paziente
+
+Paziente: Enzo Antonucci
+Data di Nascita: 26 giugno 1927
+Età: 94 anni
+Dottore: Dott. Bonino
+Ospedale: Azienda Ospedaliero-Universitaria di Udine
+
+Data Ammissione: 10 maggio 2021
+Orario Ammissione: 13:45
+
+Sintomi riportati dal paziente: forti dolori al petto, mancanza di respiro, palpitazioni
+
+Note: 
+- Paziente giunto in ambulanza alle ore 13:15, immediatamente ricevuto dal personale di assistenza pronto soccorso.
+- Durante l'esame iniziale, il paziente lamentava forti dolori al petto e segnalava difficoltà respiratorie.
+- Sono stati effettuati immediatamente gli esami di routine, tra cui un elettrocardiogramma che ha mostrato un'anomalia nel ritmo cardiaco.
+- Annunciato lo stato di emergenza e richiesta l'adeguata assistenza cardiologica.
+- Il paziente è stato ricoverato nel reparto di cardiologia per ulteriori valutazioni e trattamenti.
+
+Data Ricovero: 10 maggio 2021
+Orario Ricovero: 14:30
+
+Note:
+- Il paziente è stato sistemato in una camera singola e monitorato costantemente per la pressione sanguigna, la frequenza cardiaca e la saturazione di ossigeno.
+- Richiesti i test di laboratorio per escludere eventuali infezioni o complicazioni aggiuntive.
+- Eseguita una radiografia toracica per valutare lo stato dei polmoni e la presenza di eventuali alterazioni anatomopatologiche.
+- Prescritta terapia farmacologica per alleviare i sintomi e stabilizzare il ritmo cardiaco.
+- Eseguita consulenza cardiologica da parte del Dott. Bonino per determinare il trattamento più appropriato.
+
+Data Consulto Cardiologico: 12 maggio 2021
+Orario Consulto: 09:00
+
+Risultati Consulto Cardiologico:
+- Il Dott. Bonino ha diagnosticato un disturbo del ritmo cardiaco (aritmia) nel paziente e raccomandato di eseguire un monitoraggio cardiaco continuo (Holter) per valutare i picchi di frequenza e capire l'entità del problema.
+- Prescritta una cura farmacologica mirata alla gestione dell'aritmia.
+- Il paziente è stato informato dei possibili effetti collaterali della terapia e dei prossimi passi nel processo diagnostico.
+
+Data Dimissione: 15 maggio 2021
+Orario Dimissione: 11:00
+
+Note:
+- Il paziente ha dimostrato un miglioramento significativo dei sintomi, con un ritmo cardiaco stabile e una respirazione regolare.
+- Sospesa la terapia farmacologica e pianificato un follow-up a distanza di un mese per verificare la stabilità del ritmo cardiaco.
+- Il paziente è stato informato delle misure preventive e stili di vita sani da adottare per ridurre il rischio di recidiva.
+
+Questo fascicolo è stato redatto secondo i dati e le informazioni ottenute dal paziente Antonucci durante il suo periodo di ricovero presso l'Azienda Ospedaliero-Universitaria di Udine.

@@ -1,0 +1,32 @@
+Storico Paziente
+
+ID Paziente: 36441
+Nome Paziente: Elmo
+Cognome Paziente: Costanzi
+Data di Nascita Paziente: 16 dicembre 1922
+Indirizzo Paziente: Incrocio Eraldo, 0
+55051, Sommacolonia (LU)
+Email Paziente: imeldapiazzi@example.net
+Codice Fiscale Paziente: PGNZRA25R22L487C
+
+Storico:
+ - 10 febbraio 2020: Il paziente Elmo Costanzi viene ammesso presso l'ospedale ASST di Vimercate con forti sintomi influenzali, tra cui febbre alta, tosse persistente e mal di testa. Viene assegnato alla Stanza 289.
+
+ - 11 febbraio 2020: Il Dottor Corrado Trillini, medico curante del paziente, esegue delle analisi approfondite e conferma la diagnosi di influenza. Vengono prescritti farmaci antivirali per alleviare i sintomi e viene consigliato al paziente di riposarsi adeguatamente.
+
+ - 15 febbraio 2020: Nonostante la terapia, lo stato di salute di Elmo Costanzi peggiora rapidamente e inizia a presentare difficoltà respiratorie. Il Dottor Trillini decide di ricoverarlo in terapia intensiva per permettere un monitoraggio continuo e un trattamento adeguato.
+
+ - 17 febbraio 2020: Dopo alcuni giorni di cure intensive, le condizioni del paziente migliorano leggermente. Viene deciso di trasferirlo in un reparto di degenza ordinaria per continuare la terapia e facilitare una pronta guarigione. Il paziente viene spostato nella Stanza 289.
+
+ - 20 febbraio 2020: Raggiunge il paziente Elmo Costanzi l'assistenza di un fisioterapista per aiutarlo a recuperare la piena capacità respiratoria. Vengono eseguite sedute di terapia respiratoria quotidiane al fine di potenziare i polmoni e ridurre le difficoltà durante la respirazione.
+
+ - 25 febbraio 2020: Dopo diverse settimane di degenza e terapie, le condizioni di Elmo Costanzi migliorano notevolmente e l'assistenza del fisioterapista viene interrotta. Il paziente dimissioni vengono considerate, e il Dottor Trillini programma una visita finale per valutare le sue condizioni.
+
+ - 28 febbraio 2020: Il paziente Elmo Costanzi viene dichiarato guarito ed è libero di lasciare l'ospedale. Viene programmata una visita di controllo per valutare ulteriormente il suo stato di salute a breve termine.
+
+Stanza Attuale: 289
+Nome Dottore: Corrado
+Cognome Dottore: Trillini
+Email Dottore: pepedaria@example.net
+Ospedale: ASST DI VIMERCATE
+Città: Vimercate

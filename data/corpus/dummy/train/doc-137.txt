@@ -1,0 +1,23 @@
+Storico del Paziente
+
+Nome Paziente: Fulvio Villa
+Data di Nascita Paziente: 06/25/2009
+Indirizzo Paziente: Stretto Vespa, 948 Piano 2
+62034, Muccia (MC)
+
+Admissione in ospedale - 10 agosto 2021:
+Fulvio Villa è stato ammesso al Centro Neurolesi 'Bonino Pulejo' il 10 agosto 2021 alle ore 10:00. Il paziente presentava sintomi di forte mal di testa, vertigini e difficoltà di concentrazione. Durante l'ammissione, è stato sottoposto a una serie di test diagnostici, tra cui una risonanza magnetica e una tac cranica, al fine di identificare la causa dei suoi disturbi.
+
+Risultati degli esami - 11 agosto 2021:
+I risultati delle indagini diagnostiche hanno mostrato la presenza di un'ostruzione nel sistema circolatorio cerebrale che ha causato un'insufficiente irrorazione sanguigna al cervello di F. V. Questa condizione è stata identificata come ischemia cerebrale.
+
+Intervento chirurgico - 12 agosto 2021:
+Dopo una dettagliata valutazione dei risultati degli esami, la Dottoressa Guerra ha programmato un intervento chirurgico per F. V. al fine di rimuovere l'ostruzione nel sistema circolatorio cerebrale e ripristinare adeguatamente il flusso sanguigno al cervello. L'intervento è stato eseguito con successo e F. V. è stato trasferito in sala riabilitazione per il periodo post-operatorio.
+
+Note di recupero - 13 agosto 2021:
+Fulvio Villa ha mostrato una buona risposta all'intervento chirurgico. Durante la fase di riabilitazione, il paziente è stato sottoposto a terapie fisiche e occupazionali per migliorare la forza muscolare e le funzioni cognitive compromesse a causa dell'ischemia cerebrale. Sono stati registrati progressi costanti nel tempo e il paziente ha dimostrato una notevole determinazione nel suo percorso di recupero.
+
+Dimissione dall'ospedale - 25 agosto 2021:
+Fulvio Villa è stato dimesso dal Centro Neurolesi 'Bonino Pulejo' il 25 agosto 2021 alle ore 11:00. Durante la sua permanenza in ospedale, il paziente è stato seguito attentamente dal personale medico che ha fornito le cure necessarie per la sua completa riabilitazione. Al momento della dimissione, F. V. è stato indirizzato a seguire un programma di follow-up ambulatoriale per monitorare il suo stato di salute e garantire il suo recupero a lungo termine.
+
+Questo è il resoconto dell'ammissione in ospedale di Fulvio Villa e del suo successivo intervento chirurgico per l'ischemia cerebrale. Durante il periodo di ricovero, il paziente ha mostrato segni positivi di miglioramento e la Dottoressa Guerra ha espresso fiducia nel suo completo recupero. Il paziente è stato dimesso dall'ospedale e sarà sottoposto a un follow-up regolare per garantire una continua assistenza e monitoraggio del suo stato di salute.

@@ -1,0 +1,44 @@
+Cartella Clinica - Paziente Marissa Crispi
+
+Data di Nascita: 27/06/1957
+Indirizzo: Borgo Fernanda, 392 Piano 9, 11020 Fiernaz (AO)
+
+Dott.ssa Melina Conti - oncologa
+
+Hospital: I.R.C.C.S. Istituto Oncologico Veneto
+Municipality: Padova
+Stanza: 80
+
+Storia Clinica:
+
+Data: 15/05/2022
+Sintomo principale: Dolore addominale persistente
+
+Note: La paziente Marissa Crispi si è presentata all'ospedale I.R.C.C.S. Istituto Oncologico Veneto con un sintomo di dolore addominale persistente. Dopo un'accurata valutazione, sono stati eseguiti diversi esami diagnostici, tra cui una ecografia e una tomografia computerizzata. I risultati degli esami hanno mostrato la presenza di una massa sospetta nell'addome. La paziente è stata ammessa in ospedale per ulteriori valutazioni e trattamenti.
+
+Data: 16/05/2022
+Esami Effettuati: Ecografia addominale, Tomografia Computerizzata (TC) addome completo
+
+Note: Gli esami diagnostici confermano la presenza di una massa nel colon ascendente. La paziente è stata sottoposta a una biopsia guidata dalla TC per ottenere un campione di tessuto per ulteriori analisi. Sono state prese le misure necessarie per alleviare il dolore e fornire il supporto adeguato alla paziente.
+
+Data: 18/05/2022
+Biopsia: Risultati Preliminari
+
+Note: I risultati preliminari della biopsia confermano la presenza di un tumore maligno nel colon ascendente. La paziente è stata informata della diagnosi e sono state discusse le opzioni di trattamento disponibili. Il caso della paziente è stato presentato in una riunione multidisciplinare per la pianificazione del trattamento.
+
+Data: 20/05/2022
+Trasferimento in reparto oncologia
+
+Note: La paziente Marissa Crispi è stata trasferita dal reparto di diagnosi al reparto di oncologia. Ha ricevuto tutte le informazioni necessarie riguardo al nuovo reparto e allo staff medico che si occuperà del suo trattamento.
+
+Data: 25/05/2022
+Inizio del trattamento chemioterapico
+
+Note: La paziente ha iniziato il trattamento chemioterapico per il tumore maligno al colon ascendente. Il protocollo di trattamento è stato definito in base alle caratteristiche del tumore e alle condizioni generali della paziente. Sono state fornite le informazioni necessarie sulla terapia, possibili effetti collaterali e supporto psicologico.
+
+Data: 05/06/2022
+Valutazione medica di follow-up
+
+Note: La paziente è stata sottoposta a una valutazione medica di follow-up per monitorare la risposta al trattamento. I risultati preliminari indicano una riduzione della massa tumorale. È stato confermato che il trattamento sta procedendo in modo positivo.
+
+Continuerà a essere seguita da una equipe medica multidisciplinare per continuare il suo percorso di cura.

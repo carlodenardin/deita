@@ -1,0 +1,35 @@
+T1	Name 36 43	Dolores
+T2	Name 53 59	Ottino
+T3	Date 77 87	21/04/1945
+T4	Address 99 128;129 161	Rotonda Cesaroni, 513 Piano 3 89815, Francavilla Angitola (VV)
+T5	Name 178 184	Bianca
+T6	Name 194 199	Stein
+T7	Hospital 210 242	ASST MELEGNANO E DELLA MARTESANA
+T8	Address 251 269	VIZZOLO PREDABISSI
+T9	Internal_Location 278 281	218
+T10	Date 311 321	02/01/2022
+T11	Time 327 332	10:30
+T12	Name 347 361	Dolores Ottino
+T13	Hospital 388 451	Ospedale ASST MELEGNANO E DELLA MARTESANA di Vizzolo Predabissi
+T14	Name 453 460	Dolores
+T15	Internal_Location 690 700	Stanza 218
+T16	Date 636 646	02/01/2022
+T17	Time 652 657	11:15
+T18	Name 659 666	Dolores
+T19	Date 851 860	02/01/202
+T20	Time 867 872	15:00
+T21	Name 982 994	Bianca Stein
+T22	Date 1078 1088	03/01/2022
+T23	Time 1094 1099	09:00
+T24	Name 1101 1108	Dolores
+T25	Name 1424 1436	Bianca Stein
+T26	Date 1480 1498	un'altra settimana
+T27	Date 1552 1562	10/01/2022
+T28	Time 1568 1573	08:00
+T29	Date 1282 1292	05/01/2022
+T30	Time 1298 1303	10:30
+T31	Name 1575 1582	Dolores
+T32	Name 1688 1700	Bianca Stein
+T33	Name 1829 1843	Dolores Ottino
+T34	Hospital 1878 1941	Ospedale ASST MELEGNANO E DELLA MARTESANA di Vizzolo Predabissi
+T35	Internal_Location 1948 1958	Stanza 218

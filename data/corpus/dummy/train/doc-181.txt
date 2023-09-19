@@ -1,0 +1,43 @@
+Note Infermiera - Paziente: Camilla Carullo
+
+10-01-2019: Paziente ammesso in ospedale alle ore 09:30.
+Sintomi riportati: dolore all'arto destro, difficoltà di movimento, gonfiore.
+Esami effettuati: radiografia dell'arto danneggiato.
+Prescritto riposo e applicazione di ghiaccio per alleviare il dolore.
+
+11-01-2019: Paziente ha trascorso una notte confortevole.
+Movimento limitato a causa del dolore persistente.
+Prescritto trattamento fisioterapico per accelerare il recupero.
+
+14-01-2019: Paziente mostra segni di miglioramento.
+Dolore diminuito, la mobilità dell'arto è migliorata.
+Continua il trattamento fisioterapico.
+
+18-01-2019: Paziente continua a fare progressi significativi.
+Dolore quasi scomparso, ripristinata la piena mobilità dell'arto.
+Trattamento fisioterapico si è dimostrato efficace.
+
+20-01-2019: Paziente dimesso dall'ospedale alle ore 10:00.
+Prescritta terapia farmacologica per il dolore residuo.
+Indicazioni per la fisioterapia domiciliare fornite al paziente.
+Programmato appuntamento di controllo tra un mese.
+
+Nota Infermiera - Paziente: Camilla Carullo - Progetto di recupero
+
+25-01-2019: Paziente segue fedelmente il programma di fisioterapia domiciliare.
+Continua a recuperare la piena forza e mobilità dell'arto danneggiato.
+Sintomi residui in fase di attenuazione.
+
+10-02-2019: Paziente ha completato il programma di fisioterapia domiciliare con successo.
+Diminuzione significativa del dolore e ripristino della piena funzionalità.
+Raccomandato il mantenimento di un'adeguata attività fisica per prevenire eventuali ricadute.
+
+Nota Infermiera - Paziente: Camilla Carullo - Follow-up
+
+05-03-2019: Paziente ha partecipato all'appuntamento di controllo.
+Non si riscontrano segni di recidiva o complicazioni.
+Raccomandato uno stile di vita sano e attento alla prevenzione di eventuali lesioni future.
+
+10-06-2019: Paziente non ha riportato ulteriori problemi relativi all'arto danneggiato.
+Confermato il completo recupero.
+Invitato a mantenere una buona igiene posturale e ad adottare misure preventive sul posto di lavoro.

@@ -1,0 +1,35 @@
+Fascicolo Elettronico - Paziente Carolina Pavarotti
+
+Nome Paziente: Carolina
+Cognome Paziente: Pavarotti
+Data di Nascita: 31/10/1963
+Indirizzo: Contrada Casagrande, 6 Appartamento 1
+28053, Castelletto Sopra Ticino (NO)
+Telefono: 0123941005
+
+Nome Dottore: Girolamo
+Cognome Dottore: Zola
+Telefono Dottore: 351543060
+
+Ospedale: AZIENDA OSPEDALIERO-UNIVERSITARIA DI FERRARA
+Municipio: FERRARA
+Stanza: 236
+
+Storia del Paziente:
+
+Data: 01/06/2022
+Sintomo Presentato: Forte mal di testa accompagnato da vertigini
+Note: Carolina Pavarotti si è presentata al pronto soccorso dell'Ospedale di Ferrara alle 10:30 del mattino con un forte mal di testa persistente da 2 giorni, accompagnato da episodi di vertigini. La paziente ha riferito anche di avere la sensazione di pressione all'interno delle orecchie. I sintomi si intensificano durante i movimenti e quando la paziente si abbassa. 
+
+Esame Effettuato: Visita medica, controllo pressione sanguigna, esame neurologico di base (occhi, riflessi, coordinazione).
+
+Diagnosi Provvisoria: Cefalea da tensione con vertigini. Non sono stati riscontrati segni di altre complicazioni neurologiche.
+
+Prescrizione: Il Dott. Girolamo Zola ha prescritto alla paziente di assumere antidolorifico a base di paracetamolo per alleviare il mal di testa e raccomandato un periodo di riposo adeguato. La paziente è stata invitata a monitorare la sua pressione sanguigna a casa e di tornare per una visita di controllo dopo 3 giorni se i sintomi persistessero o si aggravassero.
+
+Informazioni Generali:
+
+Età Paziente: 58 anni
+Indirizzo Paziente: Contrada Casagrande, 6 Appartamento 1, 28053, Castelletto Sopra Ticino (NO)
+Telefono Paziente: 0123941005
+Telefono Dottore: 351543060

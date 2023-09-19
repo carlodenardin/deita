@@ -1,0 +1,33 @@
+ID Paziente: 68637
+Nome Paziente: Fabrizia
+Cognome Paziente: Calgari
+Data di Nascita Paziente: 12 aprile 2012
+Indirizzo Paziente: Rotonda Massimo, 74 Appartamento 80
+90017, Sant'Elia (PA)
+
+Nome Dottore: Valeria
+Cognome Dottore: Ricolfi
+Azienda Ospedaliera: Bianchi Melacrino Morelli
+Comune: Reggio di Calabria
+
+Storia del Paziente:
+
+Il 15 settembre 2021, la signora Fabrizia Calgari è stata ammessa presso l'Azienda Ospedaliera Bianchi Melacrino Morelli di Reggio di Calabria, sotto la cura della Dottoressa Valeria Ricolfi.
+
+La signora Calgari è arrivata in ospedale alle ore 10:30 del mattino, presentando sintomi di febbre alta, tosse persistente e difficoltà respiratorie. È stata immediatamente sottoposta a una serie di test e esami per determinare la causa dei suoi disturbi.
+
+Il 16 settembre 2021, i risultati delle analisi hanno confermato la presenza del virus SARS-CoV-2, responsabile della malattia da COVID-19. La signora Calgari è stata quindi trasferita nel reparto di isolamento del reparto di malattie infettive, dove è stata monitorata e trattata attentamente.
+
+Durante il suo ricovero, la signora Calgari ha ricevuto cure mediche appropriate, tra cui somministrazione di ossigeno, farmaci per alleviare i sintomi e cure di supporto. Il personale ospedaliero ha lavorato instancabilmente per assicurarsi che la paziente ricevesse le cure necessarie per garantirne il benessere.
+
+Purtroppo, il 25 settembre 2021, la signora Fabrizia Calgari ha perso la sua battaglia contro il virus e si è spenta pacificamente alle ore 19:45. La Dottoressa Valeria Ricolfi e il resto del team medico hanno fatto tutto il possibile per fornire supporto e comfort alla paziente durante questo difficile periodo.
+
+Il decesso della signora Calgari è stato inserito nei registri ospedalieri e sono stati presi i necessari accordi per il rilascio del certificato di morte.
+
+La storia clinica completa della paziente Fabrizia Calgari sarà conservata nel sistema elettronico dell'Azienda Ospedaliera Bianchi Melacrino Morelli per futuri riferimenti.
+
+Distinti saluti,
+
+Dr.ssa Valeria Ricolfi
+Azienda Ospedaliera Bianchi Melacrino Morelli
+Reggio di Calabria

@@ -1,0 +1,47 @@
+Cartella Clinica
+
+Paziente: Edoardo Mengolo
+Data di Nascita: 21-03-1953
+Indirizzo: Borgo Nicola, 346, 26813 Graffignana (LO)
+
+Dottore: Dott. Filippo Dandolo
+Ospedale: IOV
+Municipio: Padova
+
+Storia del Paziente:
+
+Data: 10-01-2022
+Orario di Ammissione: 08:30
+
+Sintomo: Dolore al petto
+Note: Il paziente Edoardo si è presentato al pronto soccorso con un intenso dolore al petto, accompagnato da mancanza di respiro e sudorazione. Ha riferito che il sintomo è iniziato improvvisamente mentre stava eseguendo delle attività domestiche. Ha anche sperimentato una sensazione di oppressione al petto.
+
+Esami Eseguiti: ECG (elettrocardiogramma) e analisi del sangue
+
+Data: 10-01-2022
+Orario: 09:15
+
+Risultati degli Esami:
+- ECG: Mostra segni di anomalie nel ritmo cardiaco.
+- Analisi del sangue: Livelli normali di enzimi cardiaci, ma una lieve elevazione dei livelli di colesterolo LDL.
+
+Diagnosi Preliminare: Sospetta angina pectoris o infarto del miocardio.
+
+Trattamento Prescritto: Il paziente è stato immediatamente trasferito nel reparto cardiologico per ulteriori valutazioni e trattamento.
+
+Note Aggiuntive: Durante il periodo di osservazione in ospedale, il paziente è stato costantemente monitorato per la pressione sanguigna, la frequenza cardiaca e l'ossigenazione del sangue. Sono state somministrate terapie farmacologiche per alleviare il dolore al petto e migliorare la circolazione sanguigna.
+
+Esami Aggiuntivi Richiesti: Angiografia coronarica per determinare la presenza di eventuali ostruzioni delle arterie coronarie.
+
+Data: 12-01-2022
+Orario: 14:00
+
+Esito degli Esami Aggiuntivi: Angiografia coronarica mostra una grave occlusione dell'arteria coronaria sinistra.
+
+Diagnosi Finale: Infarto del miocardio con grave occlusione delle arterie coronarie.
+
+Trattamento Attuale: Il paziente è stato sottoposto a un intervento di angioplastica coronarica con inserimento di un palloncino e stent nella regione occlusa per ripristinare il flusso sanguigno.
+
+Note di Dimissione: Dopo l'intervento, il paziente ha risposto positivamente al trattamento. Sono stati prescritti farmaci per prevenire la formazione di coaguli sanguigni e per controllare la pressione sanguigna. Il paziente è stato consigliato di seguire uno stile di vita sano, incluso seguire una dieta equilibrata e fare attività fisica regolare. Saranno programmati ulteriori controlli periodici per monitorare la salute cardiaca del paziente.
+
+Firma del Dott. Filippo Dandolo

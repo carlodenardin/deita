@@ -1,0 +1,28 @@
+Paziente: Cipriano Novaro
+Data di Nascita: 24-02-2007
+Indirizzo: Stretto Solimena, 6 Appartamento 38, 48100, Lido Di Classe (RA)
+Email: giampiero66@example.com
+
+Dottore: Dott. Ezio Sokolov
+Email: pierpaolo52@example.org
+
+Data di Ammissione: 10-05-2021
+Orario di Arrivo: 08:30
+Stanza: 70
+Reparto: Azienda Ospedaliera Pugliese De Lellis, Catanzaro
+
+Motivo del Controllo: La paziente si è presentata in ospedale con sintomi di febbre alta (39°C), mal di testa e tosse persistente da tre giorni. 
+
+Note: Durante l'esame iniziale, sono state registrate le seguenti informazioni:
+- Temperatura corporea: 39°C
+- Pressione arteriosa: 120/80 mmHg
+- Frequenza cardiaca: 80 bpm
+- Frequenza respiratoria: 18 bpm
+
+Dopo aver eseguito un esame fisico completo, sono state richieste ulteriori analisi per determinare la causa dei sintomi. Saranno prescritti esami del sangue e una radiografia del torace per escludere eventuali infezioni polmonari.
+
+Il paziente Cipriano Novaro è stato messo a riposo e monitorato costantemente durante la sua permanenza in ospedale. Saranno somministrati farmaci per abbassare la febbre e alleviare i sintomi.
+
+Il paziente Cipriano Novaro è stato informato sull'importanza di mantenere l'idratazione, riposare adeguatamente e seguire le prescrizioni mediche. È stato anche istruito su quando contattare nuovamente il dottore in caso di peggioramento dei sintomi o comparsa di nuovi sintomi.
+
+Il paziente Cipriano Novaro è stato rassicurato e si è mostrato collaborativo durante la visita medica. È stata fissata una visita di controllo per monitorare l'evoluzione della sua condizione.  

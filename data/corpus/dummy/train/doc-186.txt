@@ -1,0 +1,29 @@
+Fascicolo Elettronico del Paziente
+
+Nome Paziente: Antonio
+Cognome Paziente: Vergassola
+Data di Nascita Paziente: 04/06/2009
+Indirizzo Paziente: Canale Giradello, 78 Piano 6
+98067, Raccuja (ME)
+Telefono Paziente: 35154862324
+
+Nome Dottore: Gilberto
+Cognome Dottore: Russo
+Telefono Dottore: 05876691308
+
+Ospedale: AZIENDA OSPEDALIERA MEYER, Firenze
+
+Data: 15-07-2021
+- Il paziente Antonio Vergassola è stato ammesso in ospedale dopo essere stato coinvolto in un incidente sul lavoro. L'incidente è avvenuto alle ore 10:30 del mattino durante il suo turno presso l'azienda di costruzioni XYZ. Antonio ha riportato una grave frattura alla gamba sinistra e contusioni multiple a causa di una caduta da un'impalcatura. È stato trasportato immediatamente in ospedale dal personale di emergenza.
+- Antonio è stato sottoposto a una visita medica completa al suo ingresso in ospedale. I sintomi presentati includono un forte dolore alla gamba sinistra, gonfiore e impossibilità di sostenerne il peso. Sono stati eseguiti ulteriori esami diagnostici come radiografie per valutare l'estensione delle lesioni.
+- Dopo una valutazione dettagliata dei risultati dei test, è stato confermato che Antonio ha subito una frattura composta della tibia sinistra e diverse contusioni superficiali. È stato consultato il chirurgo ortopedico per determinare il piano di trattamento adeguato.
+
+Data: 16-07-2021
+Antonio è stato sottoposto a un intervento chirurgico di riduzione e fissazione interna della frattura alla gamba sinistra. L'operazione è avvenuta con successo ed è stata completata dal Dottor Gilberto Russo insieme al suo team medico.
+
+Data: 17-07-2021
+Antonio ha trascorso la giornata in reparto per il monitoraggio post-operatorio. Sono stati somministrati analgesici per gestire il dolore post-operatorio e sono state prese precauzioni per prevenire complicazioni come infezioni.
+
+Data: 18-07-2021
+Il paziente sta mostrando segni positivi di recupero. La sua gamba sinistra viene regolarmente medicata e controllata per verificare la guarigione delle ferite. Inoltre, sta facendo fisioterapia per ripristinare la forza e la mobilità nella gamba lesionata.
+Antonio risponde bene al trattamento e viene dimesso dall'ospedale. È stato fornito un piano di cure domiciliari con raccomandazioni per il riposo, l'assunzione di farmaci prescritti e la continuazione delle sedute di fisioterapia. È prevista una visita di controllo il 05-08-2021 per valutare il progresso del recupero.

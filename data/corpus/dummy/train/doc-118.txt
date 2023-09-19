@@ -1,0 +1,54 @@
+Paziente: Virginia Vespucci
+Data di Nascita: 31-08-1928
+Indirizzo: Contrada Falcone, 10, 03012, Anagni (FR)
+
+Storia Clinica:
+
+Data: 15-07-2021
+Ora di Ammissione: 08:30
+Motivo dell'ammissione: La paziente è stata portata in ospedale a causa di forti dolori addominali e febbre persistente.
+
+Note: La paziente ha lamentato dolori addominali da diversi giorni, associati alla comparsa di febbre. Non ci sono stati episodi di vomito o diarrea. Ha una storia clinica di gastrite cronica e ipertensione arteriosa, trattate con farmaci.
+
+Esami Effettuati: 
+- Esami del sangue completi per valutare i parametri ematici, compreso il conteggio delle cellule bianche e rosse.
+- Ecografia addominale per valutare lo stato degli organi interni.
+- Test per l'infezione da COVID-19.
+
+Terapia Prescritta:
+- Analgesici per il controllo del dolore addominale.
+- Antipiretici per ridurre la febbre.
+- Fluidoterapia per mantenere l'idratazione.
+
+Risultati degli Esami:
+
+Esami del sangue:
+- Emocromo completo: valori ematici all'interno dei limiti di normalità.
+- Conta delle cellule bianche: valori leggermente aumentati, indicativi di una risposta infiammatoria.
+- Conta delle cellule rosse: valori all'interno dei limiti di normalità.
+
+Ecografia addominale: 
+- Presenza di calcoli renali bilaterali di piccole dimensioni, compatibili con la storia della paziente.
+
+Test per l'infezione da COVID-19: negativo.
+
+Note di Follow-up:
+
+Data: 16-07-2021
+Ora di Trasferimento: 10:00
+Da: Stanza 31, Reparto Medicina Interna
+A: Stanza 18, Reparto Urologia
+
+Motivo del Trasferimento: Dopo la valutazione dei risultati degli esami, è stata rilevata la presenza di calcoli renali che richiederanno un trattamento specifico nel reparto di urologia.
+
+Note: La paziente è in buone condizioni generali, ma continua a lamentare dolori addominali. È stata avviata una terapia di idratazione per favorire il passaggio dei calcoli renali.
+
+Terapia Prescritta:
+- Antispastici per alleviare il dolore.
+- Terapia di idratazione intensiva.
+
+Seguire il paziente nel reparto di Urologia per il trattamento dei calcoli renali. Continuare a monitorare i sintomi e adattare la terapia di conseguenza.
+
+Dott.ssa Milena Nugnes
+Ospedale A.O. S.ANNA - COMO
+Municipio: Como

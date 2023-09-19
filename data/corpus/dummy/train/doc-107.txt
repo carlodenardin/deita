@@ -1,0 +1,75 @@
+Fascicolo Elettronico Paziente
+
+Nome Paziente: Elena Nati
+Data di Nascita Paziente: 12/14/2002
+Indirizzo Paziente: Piazza Errani, 67 Piano 9
+37052, Casaleone (VR)
+
+Data: 10/01/2019
+Admissione in Ospedale AZ.OSP.UNIV.P.GIACCONE (PALERMO)
+
+Sintomi:
+- Febbre persistente
+- Forte mal di testa
+- Debolezza generale
+- Nausea e vomito
+
+Esami Effettuati:
+- Elettrocardiogramma (10/01/2019): Rilevati lievi alterazioni elettriche
+- Emocromo (10/01/2019): Lieve aumento dei globuli bianchi
+- Esame urine (10/01/2019): Presenza di batteri nelle urine
+
+Diagnosi Preliminare:
+- Presunta Infezione delle vie urinarie
+
+Trattamento:
+- Avvio terapia antibiotica (Ceftriaxone) per 7 giorni
+- Idratazione endovenosa per 48 ore
+
+Note:
+- Paziente ha riportato di aver avvertito i sintomi per 3 giorni prima dell'ammissione in ospedale.
+- La febbre era alta, raggiungendo i 39.5°C al momento dell'admissione.
+- Paziente ha avuto difficoltà a mangiare e ha mostrato una certa perdita di peso negli ultimi giorni.
+
+Data: 11/01/2019
+Consulto con Dottoressa Clelia Riccardi
+
+Esami Effettuati:
+- Ecografia addominale (11/01/2019): Rilevata presenza di calcoli renali
+
+Diagnosi Aggiornata:
+- Infezione delle vie urinarie complicata da calcoli renali
+
+Trattamento Aggiornato:
+- Continuazione terapia antibiotica per 7 giorni
+- Aggiunta di analgesici per il controllo del dolore
+- Programmazione di un intervento chirurgico per la rimozione dei calcoli renali
+
+Note:
+- Discussione approfondita con il paziente riguardo agli eventuali fattori di rischio per lo sviluppo di calcoli renali.
+- Paziente eseguirà ulteriori esami prima dell'intervento chirurgico.
+
+Data: 13/01/2019
+Note:
+- Paziente ha mostrato un miglioramento generale dei sintomi.
+- La febbre è diminuita e il mal di testa è sparito.
+- Paziente ha iniziato a mangiare con maggior appetito.
+
+Data: 15/01/2019
+Note:
+- Paziente ha eseguito una radiografia del torace per verificare l'assenza di coinvolgimento polmonare.
+- Esame eseguito regolarmente, senza rilevare anomalie.
+
+Data: 17/01/2019
+Intervento Chirurgico per Rimozione Calcoli Renali
+
+Dettagli Intervento:
+- Nome Chirurgo: Dottoressa Clelia Riccardi
+- Durata Intervento: 2 ore
+- Modalità Intervento: Utilizzo di tecnica laparoscopica
+
+Note:
+- L'intervento chirurgico è stato eseguito con successo.
+- Paziente ha una buona ripresa post-operatoria.
+
+Il fascicolo elettronico del paziente E. N. si conclude qui. Tutti i dati e le informazioni riportate sono state tratte dal sistema medico dell'ospedale AZ.OSP.UNIV.P.GIACCONE di Palermo.

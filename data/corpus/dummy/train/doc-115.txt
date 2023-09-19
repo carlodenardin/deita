@@ -1,0 +1,65 @@
+Cartella Clinica
+
+ID Paziente: 98027
+
+Nome Paziente: Camillo
+
+Cognome Paziente: Iadanza
+
+Data di Nascita Paziente: 08/26/1934
+
+Indirizzo Paziente: Vicolo Dolores, 136
+56034, Chianni (PI)
+
+Nome Dottore: Antonietta
+
+Cognome Dottore: Cagnin
+
+Ospedale: AO Univ Consorziale Policlinico di Bari
+
+Municipio: BARI
+
+Stanza: 11
+
+Data Ammissione: 10/05/2021
+Orario Ammissione: 16:30
+
+Sintomi: Forte dolore al petto, difficoltà respiratorie, spossatezza
+
+Note: Il paziente Camillo Iadanza è stato ammesso all'AO Univ Consorziale Policlinico di Bari il 10/05/2021 alle ore 16:30. Camillo si è presentato con forti dolori al petto, difficoltà respiratorie e una generale sensazione di spossatezza. Durante il periodo di ricovero, sono state effettuate diverse analisi per identificare la causa dei sintomi riportati dal paziente.
+
+Data Decesso: 10/10/2021
+Orario Decesso: 08:15
+
+Note: Purtroppo, il paziente Camillo Iadanza è deceduto il 10/10/2021 alle ore 08:15. Tutti i tentativi di stabilizzare le sue condizioni e di fornire cure adeguate non hanno avuto successo. La famiglia è stata informata e le adeguate procedure post mortem sono state seguite.
+
+Riepilogo:
+
+ID Paziente: 98027
+
+Nome Paziente: Camillo
+
+Cognome Paziente: Iadanza
+
+Data di Nascita Paziente: 08/26/1934
+
+Indirizzo Paziente: Vicolo Dolores, 136
+56034, Chianni (PI)
+
+Nome Dottore: Antonietta
+
+Cognome Dottore: Cagnin
+
+Ospedale: AO Univ Consorziale Policlinico di Bari
+
+Municipio: BARI
+
+Stanza: 11
+
+Data Ammissione: 10/05/2021
+Orario Ammissione: 16:30
+
+Sintomi: Forte dolore al petto, difficoltà respiratorie, spossatezza
+
+Data Decesso: 10/10/2021
+Orario Decesso: 08:15

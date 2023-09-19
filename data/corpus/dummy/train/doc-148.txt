@@ -1,0 +1,32 @@
+Cartella Clinica - Paziente: Carlo Sordi
+
+Data di Nascita Paziente: 07/03/1959
+Età: 62 anni
+
+Indirizzo Paziente: Canale Allegra, 267 Piano 8
+15010, Ponzone (AL)
+
+Email Paziente: kvezzali@example.org
+
+Storia Paziente - Intervento Ospedaliero
+
+Data Intervento: 10-01-2019
+Orario di Ammissione: 08:00
+Orario Intervento: 10:30
+Orario di Dimissione: 16:45
+
+Sintomi Presentati: Forti dolori addominali, nausea e debolezza.
+
+Note Mediche:
+- Paziente arrivato in ospedale alle ore 08:00 con sintomi di forti dolori addominali, nausea e debolezza.
+- Effettuati esami diagnostici per valutare la causa dei sintomi.
+- Successivamente, dopo una valutazione medica, è stato deciso di eseguire un intervento chirurgico per rimuovere una appendicite perforata.
+- L'intervento è stato effettuato con successo alle ore 10:30.
+- Paziente monitorato attentamente nel periodo post-operatorio per garantirne il pieno recupero.
+- Dopo un adeguato periodo di osservazione, il paziente è stato dimesso alle ore 16:45 con le relative istruzioni post-operatorie.
+
+Dottor Ippazio Telesio
+Email Dottore: bixioettore@example.net
+
+Ospedale: A.O. MATER DOMINI CATANZARO
+Comune: Catanzaro

@@ -1,0 +1,31 @@
+T1	ID 31 36	36441
+T2	Name 52 56	Elmo
+T3	Name 75 83	Costanzi
+T4	Date 110 126	16 dicembre 1922
+T5	Address 147 165;166 190	Incrocio Eraldo, 0 55051, Sommacolonia (LU)
+T6	Email 207 231	imeldapiazzi@example.net
+T7	SSN 257 273	PGNZRA25R22L487C
+T8	Date 287 303	10 febbraio 2020
+T9	Internal_Location 2155 2158	289
+T10	Name 2173 2180	Corrado
+T11	Name 2198 2206	Trillini
+T12	Hospital 2254 2271	ASST DI VIMERCATE
+T13	Address 2279 2288	Vimercate
+T14	Email 2222 2243	pepedaria@example.net
+T15	Date 504 520	11 febbraio 2020
+T16	Date 776 792	15 febbraio 2020
+T17	Date 1054 1070	17 febbraio 2020
+T18	Date 1335 1351	20 febbraio 2020
+T19	Date 1625 1641	25 febbraio 2020
+T20	Date 1924 1940	28 febbraio 2020
+T21	Name 317 330	Elmo Costanzi
+T22	Hospital 354 380	ospedale ASST di Vimercate
+T23	Internal_Location 495 498	289
+T24	Name 532 548	Corrado Trillini
+T25	Name 839 852	Elmo Costanzi
+T26	Name 931 939	Trillini
+T27	Internal_Location 1326 1329	289
+T28	Name 1375 1388	Elmo Costanzi
+T29	Name 1705 1718	Elmo Costanzi
+T30	Name 1851 1859	Trillini
+T31	Name 1954 1967	Elmo Costanzi

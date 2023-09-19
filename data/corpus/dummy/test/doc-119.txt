@@ -1,0 +1,46 @@
+Nome Paziente: Amadeo
+Cognome Paziente: Collina
+Data di Nascita Paziente: 08/23/1977
+Indirizzo Paziente: Piazza Giolitti, 26
+47100, Villa Rovere (FC)
+Telefono Paziente: 3399255917
+
+Nome Dottore: Carla
+Cognome Dottore: Montanelli
+Telefono Dottore: 01654534383
+
+Hospital ASST DEL GARDA
+Municipality DESENZANO DEL GARDA
+
+Data: 10/01/2019
+
+Ammissione in Ospedale:
+Il paziente, Amadeo Collina, è stato ammesso presso l'ASST DEL GARDA il giorno 10/01/2019 alle ore 14:30. Egli si è presentato al pronto soccorso lamentando forti dolori al petto e mancanza di respiro. Sono stati eseguiti gli esami di routine e una radiografia del petto per valutare le condizioni del paziente.
+
+Note:
+- Il paziente ha riportato di aver avuto questi sintomi da diversi giorni e che si sono progressivamente intensificati.
+- Durante l'ammissione, il paziente ha riferito di essere fumatore da lunga data.
+- Sono stati prescritti farmaci per il controllo del dolore e per ridurre l'infiammazione.
+- Il paziente è stato indirizzato a una visita cardiologica per individuare eventuali problemi cardiaci sottostanti.
+
+Data: 12/01/2019
+
+Visita Cardiologica:
+Il paziente, Amadeo Collina, ha sostenuto una visita cardiologica il giorno 12/01/2019 presso il reparto cardiologico dell'ASST DEL GARDA. La dottoressa Carla Montanelli ha eseguito un'ecocardiografia e un ECG per valutare lo stato del cuore del paziente. I risultati hanno evidenziato la presenza di un'arteria coronaria parzialmente occlusa.
+
+Note:
+- Sulla base dei risultati della visita cardiologica, la dottoressa Montanelli ha suggerito di procedere con una coronarografia.
+- Il paziente ha manifestato preoccupazione riguardo alla procedura invasiva e ha richiesto ulteriori informazioni sulla stessa.
+- La dottoressa Montanelli ha spiegato al paziente i rischi e i benefici della coronarografia e ha risposto a tutte le sue domande.
+- Il paziente ha concordato di pianificare la procedura per i prossimi giorni.
+
+Data: 15/01/2019
+
+Coronarografia:
+Amadeo Collina ha sostenuto una coronarografia il giorno 15/01/2019 presso il reparto di cardiologia dell'ASST DEL GARDA. Durante la procedura, è stata identificata un'occlusione significativa nell'arteria coronaria sinistra.
+
+Note:
+- Dopo la coronarografia, si è deciso di procedere con un intervento di angioplastica coronarica per ripristinare la normale circolazione del sangue.
+- L'intervento è stato pianificato per il giorno successivo.
+
+Questo fascicolo elettronico contiene informazioni relative al paziente Amadeo Collina, tra cui la sua storia medica, i sintomi, l'ammissione in ospedale e le procedure seguite. Le informazioni presenti nel fascicolo sono dettagliate e cronologicamente ordinate per permettere una corretta comprensione del percorso di cura seguito dal paziente.

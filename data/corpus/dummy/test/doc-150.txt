@@ -1,0 +1,49 @@
+Fascicolo Elettronico
+
+Paziente:
+Nome: Giacinto
+Cognome: Cheda
+
+Data di Nascita: 10/02/1938
+
+Dottore:
+Nome: Ruggiero
+Cognome: Borroni
+
+Luogo:
+Ospedale: ASST DI MONZA
+Comune: Monza
+
+Stanza: 155
+
+Fascicolo Clinico
+
+Data: 12-07-2020
+
+Storia del Paziente:
+
+Il signor Giacinto Cheda è stato ammesso in ospedale a seguito di un incidente stradale avvenuto il giorno 10-07-2020. L'incidente ha coinvolto una collisione frontale tra due veicoli. Il paziente è stato portato all'ospedale ASST DI MONZA per ricevere le cure necessarie.
+
+Sintomi riportati dal Paziente:
+
+- Dolore al petto
+- Difficoltà respiratorie
+- Ferite multiple agli arti superiori e inferiori
+
+Esami Medici Effettuati:
+
+- Radiografia al torace
+- Esame del sangue completo
+- Elettrocardiogramma
+
+Trattamento Ricevuto:
+
+- Somministrazione di antidolorifici per alleviare il dolore al petto
+- Applicazione di medicazioni sulle ferite alle braccia e alle gambe
+- Monitoraggio regolare dei parametri vitali, inclusa la frequenza cardiaca e la saturazione di ossigeno
+
+Note Aggiuntive:
+
+- Il paziente G. C. ha riportato una frattura alla gamba sinistra e una costola rotta. È stato quindi trasferito al reparto di Ortopedia per ulteriori cure.
+- Il signor Cheda ha risposto positivamente alle terapie e agli interventi medici effettuati finora.
+- Data l'evoluzione positiva del suo stato di salute, il paziente è previsto per il trasferimento presso un'altra struttura di riabilitazione a partire dal 20-07-2020.

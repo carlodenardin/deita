@@ -1,0 +1,53 @@
+Cartella Clinica:
+
+Nome Paziente: Tatiana
+Cognome Paziente: Trobbiani
+Data di Nascita Paziente: 11/03/1962
+Indirizzo Paziente: Canale Ludovica, 9
+18032, Perinaldo (IM)
+Codice Fiscale Paziente: RZZRFL49B54A996S
+
+Nome Dottore: Morena
+Cognome Dottore: Volterra
+Ospedale: ASST DI BERGAMO OVEST
+Municipio: Treviglio
+Stanza: 30
+
+Data di Admissione: 02-05-2021
+Ora di Admissione: 10:30
+
+Motivo dell'ammissione:
+Il paziente, Tatiana Trobbiani, è stato ammesso in ospedale a seguito di un incidente sul lavoro. Mentre si trovava nel suo luogo di lavoro, è caduta da una scala e ha riportato diverse lesioni. 
+
+Sintomi:
+- Dolore intenso alla schiena
+- Difficoltà nel muovere le gambe
+- Sensazione di formicolio agli arti inferiori
+- Presenza di lividi sulle braccia e sulle gambe
+
+Esami Effettuati:
+
+03-05-2021:
+- Radiografia della colonna vertebrale
+- Analisi del sangue
+- Elettrocardiogramma
+
+04-05-2021:
+- Tomografia computerizzata della colonna vertebrale
+
+Diagnosi:
+Dopo aver analizzato i risultati degli esami, la Dottoressa Morena Volterra ha diagnosticato il paziente con una frattura lombare L1-L2 e una contusione spinale. La frattura richiede un trattamento conservativo con l'immobilizzazione della schiena e la somministrazione di antidolorifici. La contusione spinale richiede monitoraggio e fisioterapia per consentire la riabilitazione del paziente.
+
+Note Aggiuntive:
+
+- Il paziente è stato assegnato alla Stanza 30 del reparto ospedaliero.
+- Durante il ricovero, è necessario garantire al paziente un letto adatto per evitare il movimento eccessivo e fornire comfort.
+- È importante tenere traccia dei segni vitali del paziente regolarmente e verificare la presenza di eventuali sintomi aggiuntivi.
+- La fisioterapia e l'assistenza di un esperto nella gestione del dolore saranno essenziali nel percorso di riabilitazione del paziente.
+- Informare il personale medico se il paziente presenta cambiamenti significativi nel dolore o nella sensibilità degli arti inferiori.
+- Assicurarsi che il paziente abbia accesso a cibo e liquidi adeguati e monitorare l'apporto di liquidi.
+- Informare il paziente delle precauzioni da prendere al momento del dimissioni e fornire tutte le informazioni necessarie per il follow-up.
+- Informare il dipendente di Tatiana Trobbiani dell'incidente sul lavoro e richiedere le necessarie documentazioni.
+- Tenere traccia degli infortuni al lavoro riportati dal paziente.
+
+Il paziente Tatiana Trobbiani rimarrà in osservazione e verranno effettuati ulteriori esami e trattamenti in base alla sua evoluzione clinica.

@@ -1,0 +1,25 @@
+Nome: Priscilla
+Cognome: Rismondo
+Data di Nascita: 04/27/1928
+Indirizzo: Incrocio Nicolò, 31, 86016, Riccia (CB)
+
+Data - 03/10/2021:
+Paziente Priscilla Rismondo è stato ammesso all'Ospedale Policlinico Tor Vergata di Roma alle ore 15:30 a causa di un incidente domestico. La signora Rismondo è caduta accidentalmente in casa, riportando una frattura al braccio destro. Ha segnalato forti dolori e impossibilità di muovere il braccio colpito.
+
+Data - 04/10/2021:
+Il dottor Tonino Jilani ha visitato la paziente Priscilla Rismondo alle ore 09:00. Dopo un'attenta valutazione, si è deciso di effettuare un intervento chirurgico per riparare la frattura al braccio destro. La signora Rismondo è stata preparata per l'intervento.
+
+Data - 04/10/2021:
+Alle ore 12:30, il dottor Tonino Jilani ha eseguito con successo l'intervento chirurgico sulla paziente Priscilla Rismondo. L'operazione ha comportato l'applicazione di una placca metallica per stabilizzare la frattura. La signora Rismondo sta riposando e si sta riprendendo bene dall'intervento.
+
+Data - 05/10/2021:
+La paziente Priscilla Rismondo ha mostrato segni di buona guarigione. Il dottor Tonino Jilani ha prescritto una terapia del dolore e un programma di riabilitazione fisioterapica per aiutare la signora Rismondo a recuperare completamente l'uso del suo braccio destro. La paziente sarà monitorata regolarmente per valutare il progresso della sua guarigione.
+
+Data - 08/10/2021:
+La paziente Priscilla Rismondo ha dimostrato miglioramenti significativi nella sua riabilitazione fisioterapica. È in grado di muovere il braccio destro con minor disagio e la sua forza si sta ripristinando gradualmente. Il dottor Tonino Jilani ha consigliato alla signora Rismondo di continuare il programma di riabilitazione per alcuni settimane ancora.
+
+Data - 20/10/2021:
+La paziente Priscilla Rismondo ha completato con successo il programma di riabilitazione fisioterapica. È stata valutata dal dottor Tonino Jilani e il suo braccio destro è stato giudicato completamente guarito. Alla signora Rismondo è stata fornita una serie di esercizi da eseguire a casa per mantenere e migliorare la forza e la mobilità del braccio.
+
+Data - 23/10/2021:
+La paziente Priscilla Rismondo è stata dimessa dall'Ospedale Policlinico Tor Vergata di Roma dopo un recupero completo dalla frattura al braccio destro. Le sono state date istruzioni dettagliate su come prendersi cura del braccio durante la fase di guarigione post-operatoria. Sarà necessario un follow-up medico programmato per assicurarsi che la guarigione continui senza complicazioni.

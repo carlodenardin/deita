@@ -1,0 +1,65 @@
+Fascicolo Elettronico Paziente
+
+Nome Paziente: Enrico Petrucelli
+Data di Nascita Paziente: 29/01/1993
+Indirizzo Paziente: Viale Filippa, 69
+06014, Montone (PG)
+
+Nome Dottore: Dottoressa Silvia Donati
+Ospedale: UNIV.STUDI NAPOLI-FEDERICO II-FAC.MEDIC.
+Municipio: NAPOLI
+Stanza: 257
+
+Admissione in Ospedale: 17/06/2021
+Orario di Ammissione: 12:30
+
+Sintomi Riportati dal Paziente:
+- Forte mal di testa
+- Febbre persistente
+- Difficoltà a respirare
+
+Esami Effettuati:
+- Elettrocardiogramma (ECG)
+- Analisi del Sangue
+- Radiografia del Torace
+
+Risultati degli Esami:
+- ECG: Normale
+- Analisi del Sangue: Aumento dei livelli di globuli bianchi
+- Radiografia del Torace: Presenza di infiltrati polmonari
+
+Diagnosi Preliminare: Polmonite
+
+Trattamento:
+- Somministrazione di antibiotici per via endovenosa
+- Terapia antipiretica per la febbre
+- Ossigenoterapia
+
+Complicazioni:
+- Peggioramento dell'insufficienza respiratoria
+- Necrosi polmonare
+
+Trasferimento in Terapia Intensiva: 22/06/2021
+Orario di Trasferimento: 08:45
+Nuova Stanz: 302
+
+Aggravamento dello Stato Clinico:
+- Insufficienza respiratoria acuta
+- Infezione polmonare grave
+
+Decisione:
+- Rianimazione
+
+Trasferimento in Ospedale Specializzato: 25/06/2021
+Orario di Trasferimento: 19:30
+Ospedale: Ospedale di Riferimento
+
+NOTE AGGIUNTIVE:
+- Il paziente Enrico Petrucelli ha manifestato sintomi influenzali per una settimana prima dell'ammissione in ospedale.
+- Durante l'ospedalizzazione, sono stati effettuati ulteriori esami per monitorare l'andamento dell'infezione polmonare.
+- Non sono stati riscontrati miglioramenti significativi nell'andamento clinico del paziente nonostante il trattamento intensivo.
+- Il coma farmacologico è stato indotto per gestire le complicazioni respiratorie.
+- Il decesso del paziente è stato dichiarato il 05/07/2021 alle ore 14:20.
+- Le cause del decesso saranno indagate tramite l'autopsia.
+
+Questo è il fascicolo elettronico del paziente Enrico Petrucelli, che riporta le informazioni relative all'ammissione in ospedale, al trattamento e alle complicazioni riscontrate durante il suo ricovero.

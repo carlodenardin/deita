@@ -1,0 +1,28 @@
+Paziente: Fiorino Comisso
+Data di Nascita: 19/08/1923
+Indirizzo: Strada Comisso, 394, 04027, Le Forna (LT)
+
+10/03/2021
+
+Il paziente F. C. Fiorino Comisso è stato ammesso in ospedale dopo aver subito un incidente domestico. Alle 15:30 il paziente è stato trasportato d'urgenza al pronto soccorso dell'IRCCS Burlo Garofolo a Trieste. Al momento del ricovero, il paziente presentava un forte dolore al braccio sinistro e una ferita profonda al gomito causata dalla caduta accidentale.
+
+11/03/2021
+
+Dopo una valutazione iniziale, il paziente F. C. Fiorino Comisso è stato trasferito nella stanza numero 250. Dott. Flavio Biagi è stato designato come medico curante per il paziente. Il braccio sinistro del paziente è stato immobilizzato e sono stati prescritti analgesici per gestire il dolore. Il paziente è stato avvertito di tenere a riposo l'arto per favorire la guarigione.
+
+15/03/2021
+
+Durante la degenza in ospedale, il paziente F. C. Fiorino Comisso ha mostrato segni di miglioramento. La ferita al gomito è stata pulita regolarmente e coperta con medicazioni sterili. Il paziente ha seguito la fisioterapia prescritta per favorire il ripristino della mobilità del braccio sinistro. Gli esami di controllo hanno confermato l'assenza di complicazioni.
+
+20/03/2021
+
+Il paziente F. C. Fiorino Comisso ha continuato a fare progressi nell'ultimo periodo. Il dolore al braccio sinistro è diminuito notevolmente e la ferita al gomito sta mostrando segni di cicatrizzazione. Il paziente è stato autorizzato a iniziare una terapia di riabilitazione per migliorare la forza muscolare e la flessibilità dell'arto interessato.
+
+25/03/2021
+
+Dopo una valutazione attenta, il medico curante Dott. Flavio Biagi ha deciso che il paziente F. C. Fiorino Comisso può essere dimesso dall'ospedale. Il paziente è stato informato sulle procedure di follow-up e ha ricevuto una prescrizione di farmaci per la gestione del dolore ancora presente. Gli è stato consigliato di rivolgersi al proprio medico di base per eventuali ulteriori controlli.
+
+Firma: Dott. Flavio Biagi
+Hospital: IRCCS Burlo Garofolo
+Municipality: Trieste
+Stanza: 250

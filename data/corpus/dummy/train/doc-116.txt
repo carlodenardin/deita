@@ -1,0 +1,28 @@
+Fascicolo Paziente
+
+Data di aggiornamento del Fascicolo: 31 ottobre 2021
+
+Nome Paziente: Massimiliano 
+Cognome Paziente: Dovara
+Data di Nascita Paziente: 22 febbraio 1996
+Indirizzo Paziente: Canale Ajello, 833
+89060, Bagaladi (RC)
+
+Data del Ricovero: 28 ottobre 2021
+Ora del Ricovero: 9:30
+
+
+Intervento:
+Il paziente, Massimiliano Dovara, è stato ammesso al Ospedale A.O. OSPEDALI RIUNITI MARCHE NORD, situtato nel comune di Pesaro, il 28 ottobre 2021 alle ore 9:30. Il motivo del ricovero è stato il peggioramento dei sintomi di una grave infezione respiratoria.
+
+Note Mediche:
+
+- 28 ottobre 2021: Al suo arrivo in ospedale, il paziente M. D. presentava febbre alta (39°C), grave tosse persistente e difficoltà respiratorie. È stato immediatamente sottoposto a un esame del sangue e a una radiografia del torace per valutare l'estensione dell'infezione.
+
+- 29 ottobre 2021: I risultati degli esami hanno confermato la presenza di un'infezione polmonare batterica. Il paziente è stato iniziato su un trattamento antibiotico per via endovenosa e su terapia per alleviare la febbre.
+
+- 30 ottobre 2021: Nonostante il trattamento antibiotico, il paziente continua a presentare sintomi respiratori e febbre persistente. È stato consultato un medico specialista in malattie polmonari per una valutazione più approfondita.
+
+- 31 ottobre 2021: Il medico specialista ha consigliato di eseguire una broncoscopia per raccogliere campioni di secrezioni polmonari al fine di identificare l'agente patogeno responsabile dell'infezione. L'intervento è stato programmato per il prossimo 2 novembre.
+
+Il fascicolo verrà aggiornato regolarmente con ulteriori informazioni sullo stato del paziente, i risultati degli esami e i trattamenti somministrati.

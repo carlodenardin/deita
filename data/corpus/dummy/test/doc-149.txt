@@ -1,0 +1,40 @@
+Cartella Clinica
+ 
+Paziente:
+Nome: Bianca
+Cognome: Orsini
+
+Data di nascita: 12/07/1949
+
+Indirizzo: Canale Nosiglia, 82
+Città: Acquaviva (SA)
+CAP: 84069
+
+Dottore:
+Nome: Mercedes
+Cognome: Guarana
+
+Ospedale:
+AZ. SS. Antonio e Biagio e C. Arrigo
+Città: Alessandria
+
+Storia Clinica:
+
+Intervento: Inserimento di una protesi al ginocchio destro
+
+Data di ammissione: 10-01-2019
+Orario di ammissione: 08:00
+
+Sintomi presentati:
+- Gonfiore al ginocchio destro
+- Dolore persistente durante la deambulazione
+- Difficoltà nel piegare e allungare il ginocchio
+
+Note di consultazione: 
+Il paziente è stato ricoverato a seguito di dolori persistenti al ginocchio destro, che le causavano difficoltà nella deambulazione. Dopo una visita specialistica, è stato consigliato l'inserimento di una protesi per alleviare il dolore e ripristinare la funzionalità del ginocchio. L'intervento è stato programmato per il giorno 10-01-2019 e la paziente si trova attualmente in fase di recupero post-operatorio.
+
+Note post-operatorie: 
+La paziente ha risposto positivamente all'intervento e ha mostrato un progressivo miglioramento nella mobilità del ginocchio destro. Si stanno monitorando costantemente i parametri vitali e vengono somministrati i farmaci necessari per gestire il dolore e prevenire eventuali complicazioni.
+
+Note di dimissione: 
+La paziente è stata dimessa il 15-01-2019, dopo aver completato con successo il periodo di riabilitazione. Le sono state fornite le istruzioni per il recupero a domicilio e le prescrizioni per i farmaci necessari. Saranno programmati dei controlli post-operatori per monitorare l'avanzamento della riabilitazione. In caso di complicanze o sintomi persistenti, è stata invitata a contattare il proprio medico curante.

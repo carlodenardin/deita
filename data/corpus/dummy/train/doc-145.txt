@@ -1,0 +1,67 @@
+Nome Paziente: Roberto Tamburini
+Data di Nascita Paziente: 26/02/1962
+Indirizzo Paziente: Contrada Milo, 1
+00044, Frascati (RM)
+
+Nome Dottore: Dott. Augusto Zito
+Ospedale: A.O. "BOLOGNINI" - SERIATE
+Municipio: SERIATE
+
+Data: 15/03/2021
+Ora di Ingresso: 10:30
+Motivo del Ricovero: Forti dolori addominali
+
+Note:
+Il paziente Tamburini è stato ammesso all'Ospedale A.O. "BOLOGNINI" - SERIATE il 15/03/2021 alle ore 10:30.
+
+Durante l'ammissione, il paziente ha riportato forti dolori addominali che si sono manifestati improvvisamente la mattina stessa. Gli è stata eseguita una visita preliminare e sono stati presi i seguenti dati vitali: pressione arteriosa 120/80 mmHg, frequenza cardiaca 80 bpm, temperatura corporea 36.5°C.
+
+Dopo una valutazione iniziale, il paziente è stato indirizzato al reparto di Medicina Interna per ulteriori accertamenti.
+
+Data: 16/03/2021
+Note:
+Il paziente Tamburini è stato sottoposto a una serie di esami per determinare la causa dei suoi dolori addominali.
+
+Sono stati eseguiti: 
+- Esami del sangue completi per valutare la conta dei globuli bianchi e rossi, gli elettroliti e i livelli di enzimi epatici
+- Ecografia addominale per valutare eventuali anomalie agli organi interni
+- Radiografia del torace per escludere problemi polmonari
+
+I risultati degli esami saranno disponibili nei prossimi giorni e verranno utilizzati per definire il piano di trattamento del paziente.
+
+Data: 18/03/2021
+Note:
+I risultati degli esami del sangue sono stati analizzati e non hanno evidenziato anomalie significative. Gli esami ecografici e radiografici non hanno mostrato alcuna anomalia rilevante.
+
+Il paziente Tamburini continua a manifestare dolori addominali, ma non sono state identificate cause evidenti. Sarà necessario approfondire ulteriormente la diagnosi con altri esami medici specifici.
+
+E' stata prescritta una terapia farmacologica per il controllo del dolore e il paziente verrà sottoposto a una TAC addominale per una migliore valutazione degli organi interni.
+
+Data: 20/03/2021
+Note:
+Il paziente Tamburini ha svolto una TAC addominale che ha evidenziato la presenza di una piccola calcolosi biliare. Questa potrebbe essere la causa dei suoi sintomi.
+
+Il paziente è stato consultato da un chirurgo specializzato in Chirurgia generale, che propone una colecistectomia laparoscopica come trattamento definitivo per la sua condizione. Il paziente ha acconsentito alla procedura chirurgica e verrà programmato un intervento nei prossimi giorni.
+
+Data: 25/03/2021
+Note:
+Il paziente Tamburini è stato sottoposto con successo a una colecistectomia laparoscopica il 25/03/2021. L'intervento è stato eseguito senza complicazioni e il paziente si sta riprendendo adeguatamente.
+
+Sono stati prescritti antibiotici per prevenire infezioni post-operatorie e analgesici per gestire il dolore dopo l'intervento.
+
+Il giorno successivo all'intervento, il paziente ha mostrato segni di miglioramento e la sua condizione è stabile.
+
+Provided information:
+
+Paziente:
+- Nome: R. Tamburini
+- Data di Nascita: 26/02/1962
+- Indirizzo: Contrada Milo, 1
+             00044, Frascati (RM)
+
+Dottore:
+- Nome: Dott. Augusto Zito
+
+Ospedale:
+- Nome: A.O. "BOLOGNINI" - SERIATE
+- Municipio: SERIATE

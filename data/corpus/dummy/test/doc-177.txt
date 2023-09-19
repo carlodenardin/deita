@@ -1,0 +1,37 @@
+Fascicolo Elettronico
+
+Nome Paziente: Lilla
+Cognome Paziente: Marzorati
+Data di Nascita Paziente: 09/02/2004
+Indirizzo Paziente: Borgo Ranieri, 99
+98153, Gesso (ME)
+
+Nome Dottore: Ettore
+Cognome Dottore: Franscini
+Ospedale: A.O.U. Policlinico - Vittorio Emanuele
+Comune: Catania
+
+Storia del Paziente:
+
+10 Gennaio 2020:
+La paziente L. M., di 15 anni, si è presentata al pronto soccorso dell'A.O.U. Policlinico - Vittorio Emanuele a Catania alle ore 16:30 presentando forti dolori addominali e febbre alta. 
+
+Dalla storia clinica, emerge che la paziente ha manifestato i sintomi per circa tre giorni, accompagnati da nausea e vomito. Lilla ha riferito che i dolori addominali sono localizzati principalmente nella parte inferiore destra.
+
+L'esame obiettivo ha rilevato una sensibilità all'epifisi ileo-cecale e la presenza di uno stato febbrile con temperatura di 38,5°C.
+Dopo l'esame obiettivo, la paziente è stata sottoposta a un esame del sangue, che ha rivelato un aumento significativo dei valori dei globuli bianchi e una leggera elevazione della proteina C-reattiva. L'ecografia addominale è stata programmata per chiarire la causa dei sintomi.
+
+11 Gennaio 2020:
+L'ecografia addominale ha mostrato segni di appendicite acuta con infiammazione dell'appendice. Alla luce dei risultati e considerata l'urgenza della situazione, il Dott. Franscini ha programmato un intervento chirurgico per rimuovere l'appendice infiammata.
+La paziente è stata sottoposta a un intervento chirurgico di appendicectomia alle ore 9:00. L'intervento si è svolto senza complicazioni e la paziente ha recuperato bene dall'anestesia.
+Dopo l'intervento, L. M. è stata tenuta sotto osservazione per 24 ore. Durante questo periodo, la paziente ha ricevuto terapia antibiotica endovenosa per prevenire eventuali infezioni post-operatorie. I suoi sintomi addominali si sono gradualmente attenuati, e la febbre è diminuita.
+
+13 Gennaio 2020:
+Lilla è stata valutata dal Dott. Franscini e dal suo team medico che hanno confermato il buon recupero post-operatorio. La paziente ha riferito una riduzione significativa del dolore addominale e ha recuperato una regolare attività intestinale.
+
+14 Gennaio 2020:
+La paziente è stata dimessa dall'A.O.U. Policlinico - Vittorio Emanuele con le istruzioni per una corretta cura delle ferite post-operatorie e con una prescrizione di antibiotici per un ulteriore periodo di trattamento. Le è stato anche consigliato di riposare e seguire una dieta leggera nelle prime settimane di recupero.
+
+Il paziente è stato avvertito di contattare il proprio medico se si verificheranno eventi avversi o se i sintomi dovessero ricomparire. Un follow-up è stato programmato con il Dott. Franscini per controllare lo stato di salute di Lilla nelle prossime settimane.
+
+Fine del Fascicolo Elettronico.

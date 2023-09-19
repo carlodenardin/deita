@@ -1,0 +1,69 @@
+FASCICOLO ELETTRONICO
+
+PAZIENTE:
+Nome: Gaspare
+Cognome: Bosio
+Data di Nascita: 04/04/1960
+Indirizzo: Borgo Ferrari, 79, 44121, Ferrara (FE)
+
+DOTTOR:
+Nome: Girolamo
+Cognome: Spadafora
+Ospedale: AZIENDA OSPEDALIERA 'S. MARIA' - TERNI
+Municipio: Terni
+Stanza: 85
+
+ADMISSIONE IN OSPEDALE
+
+Data: 15-03-2022
+Orario: 10:30
+
+Sintomi riportati dal paziente:
+- Forte mal di testa da diversi giorni
+- Nausea e vertigini ricorrenti
+- Difficoltà di concentrazione
+
+Esami effettuati:
+- Esame del sangue completo
+- Elettroencefalogramma (EEG)
+- Risonanza magnetica cerebrale
+
+Note:
+Il paziente Bosio è stato ammesso in ospedale a seguito di un consulto medico. Presentando sintomi di mal di testa intensi, nausea, vertigini e difficoltà di concentrazione, si è deciso di effettuare una serie di esami per valutare la causa di tali sintomi. 
+
+DATA: 16-03-2022
+Esito esami:
+
+1. Esame del sangue completo:
+- Emoglobina: 14 g/dL (valore di riferimento: 12-16 g/dL)
+- Ematocrito: 42% (valore di riferimento: 37-47%)
+- Leucociti: 8.000/mm³ (valore di riferimento: 4.000-11.000/mm³)
+- Piastrine: 200.000/mm³ (valore di riferimento: 150.000-450.000/mm³)
+- Valori nel range di normalità
+
+2. Elettroencefalogramma (EEG):
+- Presenza di attività elettrica cerebrale normale in tutte le regioni analizzate
+
+3. Risonanza magnetica cerebrale:
+- Presenza di un piccolo angioma occipitale sinistro, che non sembra correlato ai sintomi riportati dal paziente
+- Nessun'altra anomalia rilevata
+
+Note:
+Gli esami effettuati hanno evidenziato valori all'interno del range di normalità per l'esame del sangue completo e attività elettrica cerebrale normale rilevata dall'Elettroencefalogramma. La presenza di un piccolo angioma occipitale sinistro non sembra giustificare i sintomi riportati dal paziente.
+
+DATA: 17-03-2022
+Decisione medica:
+
+Dopo aver escluso eventuali problemi evidenti attraverso gli esami effettuati, si raccomanda al paziente di riposare a casa e di seguire una dieta equilibrata. Saranno prescritti farmaci per alleviare i sintomi e il paziente sarà invitato a effettuare un follow-up preventivo tra due settimane.
+
+Raccomandazioni:
+1. Riposo adeguato
+2. Dieta equilibrata
+3. Assunzione prescritta dei farmaci
+
+Note:
+Nonostante l'assenza di diagnosi specifiche, si ritiene che i sintomi del paziente possano essere attribuiti a episodi di cefalea tensiva o stress. Sarà necessario un follow-up per valutare l'evoluzione della situazione e, se necessario, riprendere le indagini diagnostiche.
+
+Locazione del Paziente:
+Stanza: 85
+Reparto: Non specificato

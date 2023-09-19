@@ -1,0 +1,26 @@
+Paziente: Liana Scarpetta
+Codice Fiscale: CNLLSE01H19I925E
+Data di Nascita: 08/04/1937
+Indirizzo: Strada Sandra, 71, 12036, Staffarda (CN)
+
+Dottore: Dott. Laureano Collodi
+Ospedale: IRCCS 'SAVERIO DE BELLIS'
+Comune: Castellana Grotte
+
+Storia Clinica:
+
+Data di ammissione: 15 marzo 2022
+Orario di ammissione: 10:30
+
+Sintomi riportati: dolore toracico, mancanza di respiro e affaticamento.
+
+15 marzo 2022
+Liana Scarpetta è stata ammessa in ospedale alle ore 10:30 a causa di sintomi di dolore toracico, mancanza di respiro e affaticamento. La paziente è stata portata nel reparto di cardiologia per ulteriori esami e trattamenti. È stata eseguita un'elettrocardiogramma (ECG) che ha mostrato anomalie nei risultati. Di conseguenza, è stato programmato un intervento di angioplastica per il giorno successivo, al fine di risolvere le eventuali ostruzioni delle arterie coronariche.
+
+16 marzo 2022
+La paziente Liana Scarpetta è stata sottoposta a un intervento di angioplastica, condotto dal Dott. Laureano Collodi, allo scopo di ripristinare il flusso sanguigno nelle arterie coronariche. L'intervento è stato eseguito con successo e la paziente è stata posta in osservazione per monitorare il suo stato di salute durante la fase di recupero.
+
+Note successive:
+- 17 marzo 2022: Liana Scarpetta ha mostrato un recupero positivo dopo l'intervento di angioplastica. I sintomi di dolore toracico e mancanza di respiro sono notevolmente diminuiti rispetto all'ammissione iniziale.
+- 18 marzo 2022: La paziente ha iniziato a seguire un programma di riabilitazione cardiaca per favorire una completa guarigione e migliorare la sua capacità respiratoria.
+- 20 marzo 2022: Durante una visita di controllo, la paziente ha riportato di sentirsi meno affaticata e di avere una migliore qualità di vita rispetto al periodo precedente all'intervento.

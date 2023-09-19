@@ -8,8 +8,9 @@ from methods.blistcrf.flair_utils import flair_sents_to_standoff, standoff_to_fl
 from utils.corpus_loader import CorpusLoader, BASE_PATH
 from utils.train_utils import save_predictions
 from tokenizer.base import TokenizerFactory
+from models.document import Document
 
-def run_predictions():
+def run_predictions_blistcrf():
     logger.info('Starting...')
 
     # Load Corpus
@@ -50,5 +51,42 @@ def run_predictions():
         test = flair_sents_to_standoff(test_sentences, test_documents)
     )
 
+def run_predictions_crf():
+
+    from taggers.crf_tagger import CRFTagger
+
+    # Create some text
+    text = (
+        "Il paziente Carlo è residente in Via P. Soccol 20 A, 32021, Agordo (BL) nato il 12/18/1997 a Feltre. Presenta diversi sintomi, ora si trova nella stanza 120."
+    )
+
+    # Wrap text in document
+    documents = [
+        Document(name='doc_01', text=text)
+    ]
+
+    # Select downloaded model
+    model = 'model.pickle'
+
+    # Instantiate tokenizer
+    tokenizer = TokenizerFactory().tokenizer(disable=("tagger", "ner"))
+
+    # Load tagger with a downloaded model file and tokenizer
+    tagger = CRFTagger(model, tokenizer)
+
+    # Annotate your documents
+    annotated_docs = tagger.annotate(documents)
+
+    from pprint import pprint
+
+    first_doc = annotated_docs[0]
+    pprint(first_doc.annotations)
+
+    from utils.replace_phi import mask_annotations
+
+    masked_doc = mask_annotations(first_doc)
+    print(masked_doc.text)
+
 if __name__ == '__main__':
-    run_predictions()
+    #run_predictions_blistcrf()
+    run_predictions_crf()

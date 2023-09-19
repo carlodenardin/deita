@@ -1,0 +1,53 @@
+Note Infermiera - Paziente: Giovanna Gulotta
+
+Data: 22/12/2020
+Ora: 09:30
+
+La paziente, Giovanna Gulotta, è stata ammessa in ospedale dopo un incidente sul lavoro avvenuto il 21/12/2020. Presentava una ferita alla gamba sinistra, causata da un oggetto caduto. All'arrivo in pronto soccorso, la paziente aveva dolore intenso e difficoltà nel camminare. 
+
+Data: 22/12/2020
+Ora: 10:15
+
+La dottoressa Allegra Odescalchi ha visitato la paziente e ha prescritto radiografie per valutare eventuali fratture o lesioni interne. La paziente è stata trasferita al reparto di radiologia per eseguire gli esami.
+
+Data: 22/12/2020
+Ora: 11:30
+
+I risultati delle radiografie hanno confermato la presenza di una frattura alla tibia sinistra. La dottoressa Odescalchi ha consultato un ortopedico per valutare la necessità di un intervento chirurgico.
+
+Data: 22/12/2020
+Ora: 14:00
+
+La paziente è stata visitata dall'ortopedico, il dottor Rossi. Dopo una valutazione accurata, è stato deciso di eseguire un intervento chirurgico per ridurre e fissare la frattura. La paziente è stata informata delle procedure e dei rischi dell'intervento.
+
+Data: 23/12/2020
+Ora: 08:00
+
+La paziente è stata preparata per l'intervento chirurgico. Le sono state fornite istruzioni sulle precauzioni post-operatorie e sul periodo di riabilitazione.
+
+Data: 23/12/2020
+Ora: 10:30
+
+La dottoressa Odescalchi ha eseguito l'intervento chirurgico con successo. La frattura è stata ridotta e fissata con l'ausilio di una placca e viti.
+
+Data: 24/12/2020
+Ora: 09:00
+
+La paziente ha trascorso la notte in reparto e sta riprendendo dopo l'intervento. Ha ricevuto terapia antibiotica per prevenire eventuali infezioni.
+
+Data: 25/12/2020
+Ora: 14:00
+
+La paziente sta rispondendo bene al trattamento e ha iniziato la fisioterapia per riprendere la piena funzionalità della gamba.
+
+Data: 26/12/2020
+Ora: 10:00
+
+La fisioterapista ha continuato a seguire la paziente per le sessioni di riabilitazione. Giovanna ha mostrato progressi nell'aumento della mobilità e ha iniziato a camminare con l'ausilio di una stampella.
+
+Data: 28/12/2020
+Ora: 08:30
+
+La paziente è stata dimessa dall'ospedale con istruzioni sulla cura della ferita, esercizi di riabilitazione da svolgere a casa e appuntamenti per il follow-up con l'ortopedico.
+
+Nota: La paziente Giovanni Gulotta risiede all'indirizzo Contrada Goldstein, 36 Appartamento 5, 58014, Saturnia (GR).

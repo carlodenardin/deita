@@ -1,0 +1,16 @@
+T1	Name 35 40	Maria
+T2	Name 59 67	Folliero
+T3	Date 94 104	02/03/1986
+T4	Address 125 151;152 174	Viale Chinnici, 20 Piano 5 25018, Vighizzolo (BS)
+T5	Name 190 196	Silvio
+T6	Name 214 219	Rizzo
+T7	Date 235 245	21-09-2022
+T8	Date 247 257	20-09-2022
+T9	Hospital 283 327	Azienda Ospedaliero-Universitaria di Bologna
+T10	Name 338 352	Maria Folliero
+T11	Time 376 381	14:30
+T12	Internal_Location 390 393	283
+T13	Date 499 509	21-09-2022
+T14	Name 516 528	Silvio Rizzo
+T15	Name 616 630	Maria Folliero
+T16	Time 653 658	08:15

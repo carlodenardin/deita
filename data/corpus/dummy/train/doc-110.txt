@@ -1,0 +1,30 @@
+Cartella Clinica
+
+Paziente: Serena Borgia
+Data di Nascita: 13 maggio 2009
+
+Indirizzo Paziente:
+Stretto Ricci, 5 Piano 0
+25060, Lavone Di Pezzaze (BS)
+
+Dottore: Dottoressa Rosa Pascarella
+Ospedale: Azienda Ospedaliera di Padova
+Comune: Padova
+
+Storia Clinica:
+Data: 10 gennaio 2022
+Ora di Ammissione: 14:30
+
+Serena Borgia è stata ammessa in ospedale il 10 gennaio 2022 alle ore 14:30. La paziente si è presentata con i seguenti sintomi: febbre persistente, tosse secca e difficoltà respiratorie. Durante l'esame fisico, sono state rilevate anomalie nei suoni polmonari. 
+
+Note:
+- 10 gennaio 2022: Serena Borgia è stata sottoposta a esami diagnostici, compresi radiografie toraciche e prelievi ematici.
+- 11 gennaio 2022: I risultati delle radiografie hanno mostrato segni di polmonite. Serena Borgia è stata trattata con antibiotici e le è stato prescritto riposo a letto.
+- 12 gennaio 2022: La febbre di Serena Borgia è diminuita e i suoi sintomi respiratori sono migliorati. Continua ad essere monitorata dal personale sanitario.
+- 13 gennaio 2022: Serena Borgia è ancora ricoverata in ospedale per il monitoraggio e il completamento del ciclo di antibiotici. I sintomi si sono ulteriormente attenuati.
+- 14 gennaio 2022: I sintomi di Serena Borgia sono completamente scomparsi. La paziente è stata dimessa dall'ospedale con istruzioni per il follow-up e ulteriori controlli.
+
+La presente cartella clinica è completa e precisa per quanto riguarda la storia sanitaria di Serena Borgia dal suo ingresso in ospedale il 10 gennaio 2022.
+
+Firmato: 
+Dottoressa Rosa Pascarella

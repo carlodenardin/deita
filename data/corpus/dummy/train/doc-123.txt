@@ -1,0 +1,38 @@
+Cartella Clinica
+
+Paziente:
+Nome: Loretta
+Cognome: Bruno
+Data di Nascita: 28 novembre 1928
+Indirizzo: Viale Gioele, 74 Appartamento 8, 41056, Mulino (MO)
+Email: sante46@example.org
+
+Dottore:
+Nome: Gabriella
+Cognome: Serraglio
+Email: ucarli@example.org
+
+Ospedale:
+A.O. SANT'ANNA E SAN SEBASTIANO CASERTA
+Comune: Caserta
+
+Storia del Paziente:
+
+Loretta Bruno è stata ammessa presso l'Ospedale A.O. SANT'ANNA E SAN SEBASTIANO CASERTA il giorno 10 gennaio 2019 a causa di forti dolori al petto e difficoltà respiratorie. Ha accettato di partecipare a questa cartella clinica e fornire informazioni accurate per la sua cura.
+
+10 gennaio 2019:
+- Ore 08:30: Loretta Bruno è arrivata al pronto soccorso dell'ospedale con sintomi di dolore al petto e mancanza di respiro.
+- Ore 09:00: Loretta è stata sottoposta a una visita iniziale da parte del dottor Gabriella Serraglio. Sono stati presi i segni vitali e sono state effettuate alcune analisi del sangue.
+- Ore 10:00: Sono state eseguite radiografie del torace per valutare eventuali anomalie polmonari o cardiache.
+- Ore 13:00: Sono stati effettuati ulteriori esami, incluso un elettrocardiogramma, al fine di determinare la causa dei sintomi di Loretta. È stata richiesta una consulenza con uno specialista cardiologo.
+
+11 gennaio 2019:
+- Ore 09:00: Loretta è stata visitata dal cardiologo, che ha eseguito un ecocardiogramma per valutare la funzionalità cardiaca.
+- Ore 10:30: Il dottor Serraglio ha discusso i risultati dei test con Loretta e le ha spiegato che soffre di cardiomiopatia ipertrofica, una malattia che provoca ispessimenti del muscolo cardiaco.
+- Ore 12:00: Loretta è stata trasferita in un reparto per ricevere cure specialistiche per la sua condizione cardiaca. Le sono state prescritte terapie farmacologiche e un programma di riabilitazione cardiaca.
+
+Note aggiuntive:
+- Loretta ha riferito di avere una storia familiare di problemi cardiaci.
+- Durante il suo ricovero, Loretta è stata monitorata costantemente per garantire una risposta efficace al trattamento prescritto.
+- Le condizioni di Loretta sono migliorate nel corso del tempo grazie alla terapia farmacologica e alla riabilitazione cardiaca.
+- Loretta è stata dimessa dall'ospedale il giorno 20 gennaio 2019 con un piano di terapia continuativa e un follow-up regolare con il suo medico curante e il cardiologo.

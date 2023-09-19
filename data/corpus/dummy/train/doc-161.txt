@@ -1,0 +1,38 @@
+Cartella Clinica
+
+Paziente: Antonio Monti
+Data di Nascita: 21 maggio 1930
+Indirizzo: Stretto Silvia, 10, 20846 Macherio (MB)
+Ospedale: ASST DI LODI
+Reparto: Municipality Lodi 
+Stanza: 194
+
+Data: 10 gennaio 2021
+Ora: 9:00
+
+Il paziente, Monti, è stato ammesso presso l'ASST DI LODI per una malattia ancora diagnostica. Al momento del ricovero, presentava sintomi quali febbre alta, affaticamento e tosse persistente. Durante l'iniziale visita medica, si è rilevato un certo grado di difficoltà respiratoria. La paziente è stata accompagnata nella stanza 194 del reparto Municipality Lodi.
+
+Data: 10 gennaio 2021
+Ora: 14:30
+
+Dopo un'attenta valutazione clinica, sono stati eseguiti vari esami di laboratorio tra cui emocoltura, radiografia e tampone respiratorio per identificare l'origine dei sintomi. La paziente è stata sottoposta a terapia antibiotica empirica per affrontare l'infezione sospetta.
+
+Data: 12 gennaio 2021
+Ora: 10:00
+
+I risultati degli esami indicano la presenza di un'infezione polmonare batterica. Di conseguenza, la terapia antibiotica è stata modificata per adattarsi al patogeno specifico isolato dalle emocolture. La paziente ha mostrato miglioramenti nel decorso clinico con una diminuzione della febbre e dei sintomi respiratori.
+
+Data: 14 gennaio 2021
+Ora: 9:30
+
+Monti ha risposto positivamente alla terapia antibiotica e non mostra più segni di infezione. I sintomi respiratori sono scomparsi e l'ossigenazione è stabile. È necessario monitorare ulteriormente il paziente per confermare la completa guarigione prima della dimissione.
+
+Data: 16 gennaio 2021
+Ora: 11:00
+
+La paziente, Monti, ha dimostrato di essere clinicamente stabile senza sintomi residui di infezione. Tutti i parametri vitali sono entro i limiti normali. Pertanto, si è deciso di procedere con la dimissione dal reparto Municipality Lodi.
+
+Data: 16 gennaio 2021
+Ora: 16:00
+
+Monti è stata istruita sulle cure di follow-up e le è stato consigliato un adeguato periodo di riposo. Le è stata prescritta una terapia antibiotica per completare il corso del trattamento a casa. È stata programmata una visita di controllo per monitorare il recupero e valutare l'efficacia del trattamento.

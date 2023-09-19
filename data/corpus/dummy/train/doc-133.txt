@@ -1,0 +1,30 @@
+Cartella Clinica
+
+Paziente: Ivo Bianchi
+Data di Nascita: 06/05/2006
+Indirizzo: Incrocio Milena, 574
+06022, Fossato Di Vico Stazione (PG)
+
+Dottore: Dottoressa Rossana Giannone
+Ospedale: A.O. per l'Emergenza Cannizzaro
+Comune: Catania
+
+Storia Paziente:
+Il paziente Ivo Bianchi è stato ammesso in ospedale il giorno 26/08/2022 alle ore 15:30 a causa di un incidente stradale avvenuto nella sua città di residenza. Il paziente è arrivato in ambulanza presentando diversi sintomi, tra cui forti dolori alla schiena e alla gamba sinistra, difficoltà nel respirare e un sospetto trauma cranico. Al momento dell'ammissione, il paziente è stato subito sottoposto a una serie di esami diagnostici, compresi raggi-X, TAC e analisi del sangue, al fine di valutare l'entità delle lesioni e individuare eventuali complicazioni.
+
+Note:
+
+- 26/08/2022, ore 15:30: Ivo Bianchi ammesso in ospedale a seguito di un incidente stradale.
+- 26/08/2022, ore 15:45: Effettuati raggi-X per valutare la presenza di fratture o lesioni interne.
+- 26/08/2022, ore 16:00: Eseguita TAC per analizzare eventuali danni al cranio.
+- 26/08/2022, ore 16:30: Analisi del sangue per valutare lo stato generale del paziente.
+- 27/08/2022, ore 09:00: Il paziente ha presentato una lieve febbre durante la notte.
+- 27/08/2022, ore 10:30: Somministrati antibiotici per prevenire eventuali infezioni.
+- 28/08/2022, ore 08:00: Riscontrata una riduzione dei dolori alla schiena e alla gamba sinistra.
+- 29/08/2022, ore 11:00: Rimozione dei punti di sutura dalle ferite superficiali.
+- 30/08/2022, ore 07:30: Il paziente presenta una buona ripresa generale e può essere dimesso dall'ospedale.
+
+La terapia del paziente durante il periodo di ricovero si è basata principalmente su farmaci antidolorifici e antibiotici, al fine di alleviare il dolore e prevenire infezioni. Il paziente è stato costantemente monitorato e visitato dalla dottoressa Rossana Giannone per valutare l'evoluzione delle sue condizioni e fornire le cure necessarie.
+
+Raccomandazioni:
+Al momento della dimissione, il paziente Ivo Bianchi è stato istruito a seguire scrupolosamente le prescrizioni mediche, a riposare adeguatamente e a evitare sforzi eccessivi. Inoltre, è stato consigliato di effettuare visite di controllo periodiche al fine di monitorare il processo di guarigione e valutare la necessità di ulteriori trattamenti o terapie.

@@ -1,0 +1,36 @@
+T1	ID 31 36	98027
+T2	Name 53 60	Camillo
+T3	Name 80 87	Iadanza
+T4	Date 115 125	08/26/1934
+T5	Address 147 166;167 186	Vicolo Dolores, 136 56034, Chianni (PI)
+T6	Name 202 212	Antonietta
+T7	Name 231 237	Cagnin
+T8	Hospital 249 288	AO Univ Consorziale Policlinico di Bari
+T9	Address 301 305	BARI
+T10	Internal_Location 315 317	11
+T11	Date 336 346	10/05/2021
+T12	Time 366 371	16:30
+T13	Name 461 476	Camillo Iadanza
+T14	Hospital 497 536	AO Univ Consorziale Policlinico di Bari
+T15	Date 540 550	10/05/2021
+T16	Time 560 565	16:30
+T17	Name 567 574	Camillo
+T18	Date 831 841	10/10/2021
+T19	Time 858 863	08:15
+T20	Name 894 909	Camillo Iadanza
+T21	Date 924 934	10/10/2021
+T22	Time 944 949	08:15
+T23	ID 1168 1173	98027
+T24	Name 1190 1197	Camillo
+T25	Name 1217 1224	Iadanza
+T26	Date 1252 1262	08/26/1934
+T27	Address 1284 1303;1304 1323	Vicolo Dolores, 136 56034, Chianni (PI)
+T28	Name 1339 1349	Antonietta
+T29	Name 1368 1374	Cagnin
+T30	Hospital 1386 1425	AO Univ Consorziale Policlinico di Bari
+T31	Address 1438 1442	BARI
+T32	Internal_Location 1452 1454	11
+T33	Date 1473 1483	10/05/2021
+T34	Time 1503 1508	16:30
+T35	Date 1594 1604	10/10/2021
+T36	Time 1621 1626	08:15

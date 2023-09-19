@@ -1,0 +1,73 @@
+FASCICOLO ELETTRONICO
+
+ID Paziente: 49760
+Nome Paziente: Tonia
+Cognome Paziente: Udinese
+Data di Nascita Paziente: 22/03/1984
+Indirizzo Paziente: Stretto Respighi, 92 Piano 8
+26032, Ostiano (CR)
+Nome Dottore: Renata
+Cognome Dottore: Celentano
+Ospedale: FOND.IRCCS "ISTIT.NAZ.LE TUMORI" MILANO
+Comune: MILANO
+Stanza: 37
+
+DATA: 01/06/2022
+AMMISSIONE IN OSPEDALE
+
+Paziente: Tonia Udinese
+Ospedale: FOND.IRCCS "ISTIT.NAZ.LE TUMORI" MILANO
+Stanza: 37
+
+Sintomi: Il paziente si è presentato in ospedale con forti mal di testa, nausea e vertigini persistente da diversi giorni.
+
+Esami effettuati:
+- Esame del sangue completo per valutare la presenza di infezioni o anomalie ematiche.
+- Tac cranica per verificare eventuali patologie cerebrali.
+
+Trattamento:
+- Somministrazione di farmaci per il dolore e contro la nausea.
+
+Risultati degli esami:
+- Esame del sangue: tutti i valori all'interno dei limiti della norma.
+- Tac cranica: nessuna anomalia rilevata.
+
+Il paziente è stato ammesso in stanza 37 del reparto, dove sarà sotto osservazione per il monitoraggio dei sintomi e per eventuali ulteriori indagini diagnostiche.
+
+
+DATA: 02/06/2022
+AGGIORNAMENTO STORIA CLINICA
+
+Paziente: Tonia Udinese
+Ospedale: FOND.IRCCS "ISTIT.NAZ.LE TUMORI" MILANO
+Stanza: 37
+
+Il paziente ha continuato a manifestare mal di testa, nausea e vertigini nonostante il trattamento farmacologico. Sono stati richiesti ulteriori esami radiologici per approfondire la diagnosi.
+
+Esami effettuati:
+- Risonanza magnetica cerebrale per valutare la presenza di eventuali lesioni o tumori cerebrali.
+
+Trattamento:
+- Introduzione di un nuovo farmaco per il controllo del dolore.
+
+Risultati degli esami:
+- Risonanza magnetica cerebrale: è stata rilevata la presenza di un tumore cerebrale di dimensioni ridotte.
+
+Il paziente è stato trasferito nel reparto di neurochirurgia per valutare le opzioni terapeutiche e pianificare intervento chirurgico.
+
+
+DATA: 03/06/2022
+AGGIORNAMENTO STORIA CLINICA
+
+Paziente: Tonia Udinese
+Ospedale: FOND.IRCCS "ISTIT.NAZ.LE TUMORI" MILANO
+Reparto: Neurochirurgia
+Stanza: 37
+
+Dopo una discussione approfondita con il paziente e la famiglia, è stata programmata un'intervento chirurgico per rimuovere il tumore cerebrale. L'intervento è previsto per il giorno 10/06/2022.
+
+Il paziente è stato informato sui rischi e i benefici dell'intervento e ha firmato il consenso informato.
+
+Verranno effettuati ulteriori esami pre-operatori prima della data dell'intervento.
+
+Questo è un esempio di fascicolo elettronico per il paziente Tonia Udinese. La storia clinica può essere continuata nel modo appropriato, tenendo in considerazione le date e gli eventi successivi all'operazione.

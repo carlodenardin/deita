@@ -1,0 +1,39 @@
+CARTELLA CLINICA
+
+Paziente: Lolita Ferragni
+Data di nascita: 04/12/1973
+Indirizzo: Viale Piersanti, 285 Appartamento 50
+98146, Messina (ME)
+
+Dottore: Dott. Ermenegildo Ziani
+Ospedale: ASST PAPA GIOVANNI XXIII                
+Comune: Bergamo                                 
+Stanza: 13
+
+Data: 15-02-2022
+Ora di ammissione: 10:30
+Motivo di ammissione: Decesso di un familiare
+
+Note:
+- La signora Lolita Ferragni è stata ammessa in ospedale a seguito del decesso di un familiare stretto. Si è presentata in stato di profonda tristezza e manifestando sintomi di shock emotivo.
+- Al momento dell'ammissione, la paziente è apparsa affranta e ha riferito di sentirsi sopraffatta dalla situazione.
+- Sono stati presi i dati anagrafici della paziente e registrati i suoi sintomi iniziali.
+- Lolita Ferragni è stata accompagnata nella stanza 13, dove riceverà assistenza dagli specialisti del reparto.
+
+Data: 15-02-2022
+Ora: 11:00
+Esame psicologico: La paziente mostra segni di lutto complicato.
+
+Note:
+- Il Dott. Ermenegildo Ziani ha eseguito un esame psicologico sulla signora Ferragni, che ha confermato la presenza di sintomi di lutto complicato.
+- Lolita Ferragni è apparsa visibilmente sconvolta e ha raccontato dettagli sulla perdita del familiare.
+- Saranno necessarie ulteriori sessioni di sostegno psicologico per affrontare il processo di lutto.
+
+Data: 16-02-2022
+Ora: 09:30
+Trasferimento in reparto psichiatrico: Stato mentale instabile.
+
+Note:
+- A seguito dei sintomi di profonda tristezza e lutto complicato, la paziente Lolita Ferragni è stata trasferita nel reparto psichiatrico dell'ospedale.
+- La decisione è stata presa per garantire un'adeguata valutazione e assistenza specialistica al suo stato mentale instabile.
+- Lolita Ferragni è stata assegnata a una nuova stanza nel reparto psichiatrico e continuerà a essere seguita dal Dott. Ziani e dal personale specializzato.

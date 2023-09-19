@@ -1,0 +1,50 @@
+Fascicolo Elettronico Paziente
+
+Nome Paziente: Rolando
+Cognome Paziente: Cutuli
+Data di Nascita Paziente: 23/08/1980
+Indirizzo Paziente: Strada Guglielmo, 699
+13039, Trino (VC)
+Codice Fiscale Paziente: GGGCTN46S21C316P
+
+Nome Dottore: Filippa
+Cognome Dottore: Giannetti
+
+Data: 10/05/2020
+Ora Ammissione: 08:30
+Sintomi: Forte dolore al petto, difficoltà respiratorie, vertigini, sudorazione eccessiva.
+
+Note: Paziente ammesso al pronto soccorso dell'Azienda Ospedaliera Regionale 'S. Carlo' di Potenza alle ore 08:30 del 10/05/2020. Si è presentato con sintomi di dolore al petto, difficoltà respiratorie, vertigini e sudorazione eccessiva. Dopo un esame clinico iniziale, il paziente è stato trasferito alla stanza 273 del reparto.
+
+Locazione Paziente: Stanza 273
+Reparto: Azienda Ospedaliera Regionale 'S. Carlo', Potenza
+
+Data: 10/05/2020
+Ora: 09:00
+Esito ECG: Presenza di alterazioni significative
+
+Note: Alle ore 09:00 del 10/05/2020, è stato eseguito un elettrocardiogramma (ECG) sul paziente. I risultati mostrano la presenza di alterazioni significative.
+
+Data: 10/05/2020
+Ora: 09:30
+Esito Analisi del Sangue: Livelli elevati di enzimi cardiaci
+
+Note: Alle ore 09:30 del 10/05/2020, sono state eseguite le analisi del sangue sul paziente. I risultati indicano livelli elevati di enzimi cardiaci, suggerendo un possibile danno al cuore.
+
+Data: 10/05/2020
+Ora: 10:15
+Esito Radiografia Torace: Rilevato un'opacità polmonare
+
+Note: Alle ore 10:15 del 10/05/2020, è stata effettuata una radiografia del torace sul paziente. L'esame ha rilevato la presenza di un'opacità polmonare, indicativa di un'eventuale infezione o problema polmonare.
+
+Data: 10/05/2020
+Ora: 11:30
+Esito Ecodoppler Cardiaco: Funzione cardiaca compromessa
+
+Note: Alle ore 11:30 del 10/05/2020, è stato eseguito un ecodoppler cardiaco sul paziente. I risultati mostrano una compromissione della funzione cardiaca, probabilmente causata da un'eventuale malattia cardiovascolare.
+
+Data: 10/05/2020
+Ora: 12:30
+Discussione con Paziente e Famigliari: Raccomandazione di un intervento chirurgico urgente
+
+Note: Alle ore 12:30 del 10/05/2020, il dottor Giannetti ha discusso con il paziente e i suoi famigliari riguardo ai risultati degli esami e alla necessità di un intervento chirurgico urgente per trattare la condizione cardiaca. Sono state fornite spiegazioni dettagliate dei rischi e dei benefici dell'intervento.

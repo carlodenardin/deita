@@ -1,0 +1,29 @@
+T1	Name 15 21	Amadeo
+T2	Name 40 47	Collina
+T3	Date 74 84	08/23/1977
+T4	Address 105 124;125 149	Piazza Giolitti, 26 47100, Villa Rovere (FC)
+T5	Phone 169 179	3399255917
+T6	Name 195 200	Carla
+T7	Name 218 228	Montanelli
+T8	Phone 247 258	01654534383
+T9	Hospital 269 283	ASST DEL GARDA
+T10	Address 297 316	DESENZANO DEL GARDA
+T11	Date 324 334	10/01/2019
+T12	Name 373 387	Amadeo Collina
+T13	Hospital 414 428	ASST DEL GARDA
+T14	Date 439 449	10/01/2019
+T15	Time 459 464	14:30
+T16	Date 1096 1106	12/01/2019
+T17	Name 1142 1156	Amadeo Collina
+T18	Date 1205 1215	12/01/2019
+T19	Internal_Location 1226 1246	reparto cardiologico
+T20	Hospital 1252 1266	ASST DEL GARDA
+T21	Name 1282 1298	Carla Montanelli
+T22	Name 1548 1558	Montanelli
+T23	Name 1754 1764	Montanelli
+T24	Date 1956 1966	15/01/2019
+T25	Name 1984 1998	Amadeo Collina
+T26	Date 2041 2051	15/01/2019
+T27	Internal_Location 2062 2084	reparto di cardiologia
+T28	Hospital 2090 2104	ASST DEL GARDA
+T29	Name 2501 2515	Amadeo Collina

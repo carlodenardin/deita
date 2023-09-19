@@ -1,0 +1,27 @@
+Paziente: Giovanni Orengo
+Data di Nascita: 08/11/1964
+Email: onioangelica@example.org
+
+Dottore: Dott. Rolando Salvini
+Email Dottore: nanni95@example.net
+
+Ospedale: AZIENDA OSPEDALIERO-UNIVERSITARIA
+Comune: UDINE
+Stanza: 140
+
+Data: 10 marzo 2022
+Sintomo: Febbre alta, tosse persistente
+
+Il paziente Giovanni Orengo è stato ammesso in ospedale il 10 marzo 2022 a causa di una febbre alta e una tosse persistente. È stato urgentemente trasferito nella stanza 140 dell'Azienda Ospedaliero-Universitaria di Udine, dove il Dott. Rolando Salvini aveva preso in carico il suo caso.
+
+Note:
+- Ore 10:00: Il paziente ha avvertito un brusco peggioramento delle sue condizioni di salute e, pertanto, ha deciso di recarsi al pronto soccorso dell'ospedale.
+- Ore 10:30: Il Dott. Salvini ha effettuato un esame fisico approfondito sul paziente, registrando una temperatura corporea di 39.5°C e un frequente sintomo di tosse secca.
+- Ore 11:00: È stato eseguito un prelievo di sangue per ulteriori analisi di laboratorio al fine di identificare la causa della febbre persistente.
+- Ore 12:30: Il paziente è stato sottoposto ad una radiografia del torace per escludere eventuali complicanze polmonari.
+- Ore 14:00: I risultati delle analisi del sangue hanno mostrato un lieve aumento dei globuli bianchi, indicativo di un'infezione.
+- Ore 15:30: Il paziente è stato avviato ad un trattamento antibiotico per combattere l'infezione sospettata.
+
+Questo è il primo ingresso in ospedale per Giovanni Orengo, che è stato sottoposto a un monitoraggio costante da parte del Dott. Salvini e del personale infermieristico.
+
+Continua il trattamento e l'osservazione del paziente. Ulteriori aggiornamenti saranno registrati nel suo storico medico.

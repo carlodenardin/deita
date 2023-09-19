@@ -1,0 +1,21 @@
+Data 10-03-2021: 
+Paziente ricoverata presso gli Ospedali Riuniti Marche Nord di Pesaro. Annunziata Nicoletti, 31 anni, ha avvertito un forte mal di testa e vertigini che si sono manifestate improvvisamente oggi, intorno alle ore 8 del mattino. 
+Ad oggi, Annunziata ha subito vari esami neurologici per determinare la causa dei suoi sintomi. Il Dott. Federico Aloisio, responsabile del reparto neurologico, ha prescritto una risonanza magnetica per escludere eventuali lesioni cerebrali o emorragie.
+
+Data 11-03-2021: 
+La risonanza magnetica eseguita ha mostrato una leggera infiammazione a livello del tronco encefalico. A causa di ciò, Annunziata è stata inserita in terapia farmacologica per ridurre l'infiammazione e alleviare i sintomi. 
+
+Data 13-03-2021: 
+Annunziata ha risposto positivamente alla terapia farmacologica, con una riduzione del mal di testa e delle vertigini. Il Dott. Aloisio ha deciso di tenere la paziente in osservazione per un'altra giornata per valutarne l'evoluzione.
+
+Data 14-03-2021: 
+Annunziata ha confermato un miglioramento significativo dei sintomi. Il Dott. Aloisio ha programmato il monitoraggio periodico per i prossimi giorni per controllare gli effetti della terapia e garantire la piena guarigione.
+
+Data 15-03-2021: 
+Annunziata ha ricevuto le dimissioni dall'ospedale dopo una completa regressione dei sintomi. Le è stato consigliato di seguire una terapia farmacologica a domicilio per un altro mese e di fissare un appuntamento per una visita di controllo dopo due settimane.
+Il Dott. Aloisio ha informato Annunziata sulle possibili cause dell'infiammazione, che potrebbero essere dovute al precedente stress psicofisico. Le è stato raccomandato di prendersi cura del proprio benessere e di adottare uno stile di vita sano per prevenire eventuali ricadute.
+
+Indirizzo Paziente: Incrocio Cugia, 0, 06128, Ponte Della Pietra (PG)
+Email Paziente: segrepaulina@example.org
+Codice Fiscale Paziente: RDEDNI87H56A145B
+Email Dottore: melaniarubbia@example.org

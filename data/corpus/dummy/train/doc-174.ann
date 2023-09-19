@@ -1,0 +1,25 @@
+T1	Date 18 28	10-01-2019
+T2	Name 38 54	Ignazio Virgilio
+T3	Hospital 94 131	ospedale AZ.OSP.SAN CAMILLO-FORLANINI
+T4	Time 146 151	15:30
+T5	Time 205 210	14:45
+T6	Internal_Location 458 476	reparto ortopedico
+T7	Name 665 673	Virgilio
+T8	Internal_Location 704 709	215-A
+T9	Date 793 803	11-01-2019
+T10	Time 1117 1121	9:00
+T11	Date 1225 1235	12-01-2019
+T12	Name 1245 1253	Virgilio
+T13	Time 1338 1342	9:00
+T14	Time 1366 1373	tre ore
+T15	Internal_Location 1444 1461	terapia intensiva
+T16	Date 1605 1615	15-01-2019
+T17	Internal_Location 1680 1697	terapia intensiva
+T18	Internal_Location 1913 1940	reparto di degenza generale
+T19	Date 2002 2012	17-01-2019
+T20	Name 2022 2030	Virgilio
+T21	Internal_Location 2053 2080	reparto di degenza generale
+T22	Internal_Location 2089 2094	307-B
+T23	Name 2582 2590	Virgilio
+T24	Time 2912 2917	15:00
+T25	Address 2974 3029	Stretto Salieri, 41 Appartamento 7, 26030, Voltido (CR)

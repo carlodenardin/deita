@@ -1,0 +1,27 @@
+Nota infermieristica
+Data: 15/10/2020
+
+Paziente: Filippa Metella
+Età: 18 anni
+Data di nascita: 01/01/2002
+Indirizzo: Via Zampa, 97 Piano 4
+23900, Lecco (LC)
+
+Il paziente, Filippa Metella, è stato ammesso in ospedale il 14/10/2020 alle 18:30. È stato portato d'urgenza dal servizio di emergenza a causa di un grave malore che si è verificato a casa. Sono stati riferiti sintomi di dolore toracico intenso, mancanza di respiro e svenimenti ripetuti. Il paziente presentava anche una colorazione della pelle pallida e sudorazione profusa.
+
+Al momento del ricovero, Filippa è stata assegnata alla stanza 263 del reparto di cardiologia dell'Azienda Ospedaliera Regionale 'S. Carlo' a Potenza, dove sarà monitorata e sottoposta a una serie di esami e trattamenti per determinare la causa dei sintomi.
+
+Il team medico, guidato dalla Dottoressa Lolita Mondadori, ha effettuato una serie di esami approfonditi, inclusi esami del sangue, elettrocardiogramma e una radiografia del torace. Sono state riscontrate anomalie significative nel test del troponinio, un indicatore di danno cardiaco, che ha confermato la presenza di un infarto miocardico acuto.
+
+Filippa è stata sottoposta a un intervento di angioplastica coronarica per ripristinare il flusso sanguigno al cuore e ridurre i danni al muscolo cardiaco. L'intervento è stato eseguito con successo il 15/10/2020 alle 09:00 dalla Dottoressa Mondadori e dal suo team.
+
+Attualmente, il paziente è in fase di recupero post-operatorio nella stanza 263 del reparto di cardiologia. È controllata costantemente la sua pressione sanguigna, la frequenza cardiaca e la respirazione. Sono stati prescritti farmaci per gestire il dolore e ridurre il rischio di coaguli di sangue.
+
+La famiglia di Filippa è stata informata della sua condizione e si è recata in ospedale per sostenerla durante questo momento difficile. Il team infermieristico sta fornendo un supporto emotivo e assistenza continua al paziente e ai suoi familiari.
+
+Il piano di cura prevede ulteriori controlli medici, la gestione dell'infiammazione e del dolore, nonché una riabilitazione cardiaca completa per aiutare il paziente a recuperare completamente. Il suo quadro clinico sarà continuamente monitorato e adeguato in base alla sua risposta al trattamento.
+
+Prossimo aggiornamento programmato: 17/10/2020.
+
+Firmato,
+Infermiera.

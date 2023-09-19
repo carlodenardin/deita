@@ -1,0 +1,33 @@
+STORICO PAZIENTE
+
+Nome Paziente: MaurA Calli
+Data di Nascita Paziente: 11/01/2018
+Indirizzo Paziente: Vicolo Fabrizio, 434 Appartamento 5
+25024, Porzano (BS)
+
+10/05/2020 - Ricovero in ospedale
+
+Sintomo: Febbre alta persistente, tosse secca
+
+Note del Dott. Pastine:
+- La paziente Calli ha presentato febbre alta persistente e tosse secca da due giorni.
+- Sono stati eseguiti esami del sangue e una radiografia del torace per valutare la situazione polmonare.
+- Sono stati prescritti antibiotici per curare un'eventuale infezione.
+
+11/05/2020 - Osservazione in ospedale
+
+Note del Dott. Pastine:
+- La paziente Calli è stata ammessa in ospedale per monitorare l'andamento dei sintomi e garantire un trattamento appropriato.
+- La febbre è leggermente diminuita, ma persistono tosse secca e malessere generale.
+- Sono stati effettuati ulteriori esami per escludere eventuali complicazioni.
+- La paziente è stata posta sotto osservazione e verrà riesaminata domani.
+
+12/05/2020 - Dimissione dall'ospedale
+
+Note del Dott. Pastine:
+- La paziente Calli ha mostrato un miglioramento significativo dei sintomi.
+- La febbre è completamente scomparsa e la tosse è notevolmente diminuita.
+- Non sono stati riscontrati segni di complicazioni polmonari.
+- È stata data allegra approvazione per la dimissione dall'ospedale.
+- Sono stati consigliati ulteriori esami di controllo da effettuare presso il proprio medico curante.
+

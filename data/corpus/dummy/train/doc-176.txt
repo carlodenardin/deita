@@ -1,0 +1,53 @@
+CARTELLA CLINICA
+
+ID Paziente: 81767
+Nome Paziente: Paolo Bianchi
+Data di Nascita Paziente: 19-07-2007
+Indirizzo Paziente: Incrocio Missoni, 8
+83017, Ferrari Di Cervinara (AV)
+Nome Dottore: Dott. Giacinto Toninelli
+Ospedale: AO CITTA' DELLA SALUTE E DELLA SCIENZA D
+Municipio: TORINO                                  
+
+AMMISSIONE IN OSPEDALE
+
+Data: 24-03-2020
+Ora: 10:30
+
+Sintomi riportati dal paziente: febbre persistente, tosse secca e affaticamento.
+
+Esami effettuati:
+- Analisi del sangue: valori degli emocomponenti all'interno dei range normali.
+- Radiografia del torace: presenza di opacità polmonare a livello dei polmoni.
+
+Diagnosi provvisoria: Polmonite.
+
+Trattamento prescritto:
+- Inizio terapia antibiotica a base di azitromicina.
+- Terapia antipiretica per controllare la febbre.
+- Riposo a letto e idratazione adeguata.
+
+Note: Il paziente Paolo Bianchi è stato ammesso in ospedale a causa di sintomi influenzali acuti, compresa la febbre persistente e la tosse secca. Dopo una serie di esami, è stata diagnosticata una polmonite. Nei prossimi giorni verranno monitorati i sintomi e verranno eseguiti ulteriori esami di follow-up per valutare la risposta al trattamento prescritto.
+
+Note successive:
+
+Data: 26-03-2020
+Ora: 09:00
+
+Il paziente Paolo Bianchi ha mostrato un miglioramento dei sintomi dopo l'inizio del trattamento con antibiotici. La febbre è diminuita e la tosse si è attenuata.
+
+Prossimi passi: Continuare con la terapia antibiotica prescritta e monitorare la risposta del paziente al trattamento.
+
+Data: 29-03-2020
+Ora: 10:30
+
+Il paziente Paolo Bianchi ha riportato un ulteriore miglioramento dei sintomi. La febbre è completamente scomparsa e la tosse è quasi del tutto cessata.
+
+Prossimi passi: Continuare la terapia antibiotica per la durata prescritta e monitorare il paziente per eventuali recidive o complicanze.
+
+Data di rilascio: 04-04-2020
+Ora di rilascio: 11:00
+
+Il paziente Paolo Bianchi è stato dimesso in buone condizioni generali. Le sue condizioni respiratorie si sono stabilizzate e non sono più presenti sintomi associati alla polmonite. Gli è stato consigliato di proseguire il trattamento antibiotico a casa per completare il ciclo terapeutico prescritto.
+
+Prossimo appuntamento di follow-up: da programmare.

@@ -1,0 +1,25 @@
+Note Infermiere - Paziente: Rossana Deledda
+
+Data: 12-03-2022
+Orario Admissisione: 09:30
+Sintomi: Rossana è stata ammessa in ospedale oggi mattina dopo aver avvertito forti dolori addominali persistenti. Ha anche manifestato nausea e febbre alta. Inizialmente è stata portata al pronto soccorso dove è stata valutata dal Dott. Peranda.
+Esami: Sono stati prescritti esami di laboratorio per approfondire le cause dei sintomi di Rossana. Le analisi del sangue e delle urine sono state prelevate e inviate al laboratorio per l'analisi.
+
+Data: 12-03-2022
+Orario: 11:30
+Esito Esami: I risultati degli esami sono stati ricevuti dal Dott. Peranda. Sono state riscontrate alte concentrazioni di globuli bianchi, indicando un'infezione. È stata prescritta una terapia antibiotica per combattere l'infezione.
+Colloquio Medico-Paziente: Il Dott. Peranda ha incontrato Rossana per spiegare la situazione e il piano di trattamento. Ha informato Rossana che dovrà rimanere ricoverata per alcuni giorni per completare il ciclo di antibiotici e monitorare la sua risposta al trattamento.
+
+Data: 13-03-2022
+Orario: 08:00
+Condizioni Paziente: Rossana ha trascorso la notte senza febbre e ha segnalato un miglioramento generale dei sintomi. Ha iniziato a mangiare normalmente e ha maggiori energie rispetto a quando è stata ammessa.
+Visita Infermieristica: Ho effettuato una visita di routine per controllare la pressione sanguigna di Rossana e monitorare i suoi sintomi. Ha segnalato un leggero dolore addominale residuo, ma nel complesso si sente molto meglio.
+
+Data: 14-03-2022
+Orario: 09:00
+Esami di Follow-up: Sono state prelevate nuove analisi del sangue per valutare l'efficacia della terapia antibiotica. I risultati saranno analizzati dal Dott. Peranda e potrebbe essere necessario regolare il dosaggio dell'antibiotico.
+Dimissione: Dopo aver valutato i risultati degli esami di follow-up, il Dott. Peranda ha deciso che Rossana può essere dimessa. Le ha prescritto una terapia antibiotica orale da continuare a casa per altri 5 giorni e le ha fornito le istruzioni per i controlli successivi.
+
+Data: 15-03-2022
+Orario: 12:00
+Incontro di Dimissione: Ho incontrato Rossana per spiegare il piano di trattamento post-ospedalizzazione e per rispondere a eventuali domande. Le ho fornito tutte le informazioni necessarie per continuare la terapia antibiotica a casa.

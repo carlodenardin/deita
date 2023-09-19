@@ -1,0 +1,31 @@
+Fascicolo Paziente
+
+Nome Paziente: Maria
+Cognome Paziente: Folliero
+Data di Nascita Paziente: 02/03/1986
+Indirizzo Paziente: Viale Chinnici, 20 Piano 5
+25018, Vighizzolo (BS)
+
+Nome Dottore: Silvio
+Cognome Dottore: Rizzo
+
+Data odierna: 21-09-2022
+
+20-09-2022
+Ammissione in Ospedale - Azienda Ospedaliero-Universitaria di Bologna
+Paziente: Maria Folliero
+
+Orario di Ammissione: 14:30
+Stanza: 283
+Reparto: Non specificato
+
+Sintomi presentati: Forte dolore addominale, febbre, vomito
+
+Note Aggiuntive:
+
+21-09-2022
+Dott. Silvio Rizzo
+
+Purtroppo, nonostante i nostri sforzi, siamo spiacenti di informarvi che la paziente, Maria Folliero, è deceduta oggi alle 08:15. I nostri più sinceri condoglianze alla famiglia.
+
+Cause del decesso: Insufficienza multiorgano dovuta ad un'appendicite perforata.

@@ -1,0 +1,35 @@
+Cartella Clinica
+
+Paziente: Maria Micheletti
+Data di Nascita: 12-11-1995
+Indirizzo: Rotonda Sonnino, 5, 26822, Brembio (LO)
+
+Dottore: Dottoressa Tonia Valentino
+Ospedale: FOND.IRCCS "ISTIT.NAZ.LE TUMORI" MILANO
+Comune: Milano
+
+Storia Clinica:
+
+10-01-2022 - Paziente ammessa in ospedale alle ore 13:45.
+Sintomi riportati: forte mal di testa persistente da 2 giorni, vomito e difficoltà nella visione.
+
+10-01-2022 - Eseguiti esami neurologici e risonanza magnetica.
+Esito degli esami: rilevato un'emorragia cerebrale.
+
+11-01-2022 - Paziente sottoposta a intervento chirurgico per rimuovere l'emorragia cerebrale.
+
+12-01-2022 - Paziente in fase di ripresa post-operatoria. Sono state somministrate terapie antibiotiche e antidolorifiche.
+
+15-01-2022 - Paziente ancora ricoverata in ospedale per monitorare il suo stato di salute.
+
+17-01-2022 - Paziente dimessa dall'ospedale. Ulteriori controlli programmati per verificare il recupero completo.
+
+Note aggiuntive:
+
+- Durante il ricovero, la paziente ha risposto positivamente alle terapie e ha mostrato miglioramenti significativi.
+- È stata fornita alla paziente una dieta equilibrata e ricca di nutrienti per favorire la sua guarigione.
+- Sono stati prescritti farmaci per gestire il dolore post-operatorio e controllare la pressione arteriosa.
+- Durante la degenza, la paziente ha sempre mostrato un atteggiamento positivo e una buona cooperazione con il personale medico.
+- La paziente è stata sottoposta a regolari controlli dell'emocromo e delle funzioni vitali per monitorare il suo progresso.
+
+Si prevede che la paziente possa riprendersi completamente con le cure adeguate. Ulteriori follow-up sono stati programmati per assicurarsi del recupero completo e della sua salute a lungo termine.

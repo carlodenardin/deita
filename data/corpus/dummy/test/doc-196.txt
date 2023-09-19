@@ -1,0 +1,49 @@
+Fascicolo Paziente
+
+Paziente:
+Nome: Dolores
+Cognome: Ottino
+Data di Nascita: 21/04/1945
+Indirizzo: Rotonda Cesaroni, 513 Piano 3
+89815, Francavilla Angitola (VV)
+
+Dottore:
+Nome: Bianca
+Cognome: Stein
+Ospedale: ASST MELEGNANO E DELLA MARTESANA
+Comune: VIZZOLO PREDABISSI
+Stanza: 218
+
+Storia del Paziente:
+
+Data: 02/01/2022
+Ora: 10:30
+
+Il paziente, Dolores Ottino, è stato ammesso presso l'Ospedale ASST MELEGNANO E DELLA MARTESANA di Vizzolo Predabissi. Dolores ha presentato sintomi quali febbre alta, affaticamento e difficoltà respiratorie. A causa della gravità dei sintomi, è stato necessario ricoverarla per cure intensive.
+
+Data: 02/01/2022
+Ora: 11:15
+
+Dolores è stata assegnata alla Stanza 218. Inizialmente è stata sottoposta a esami diagnostici, tra cui radiografie e analisi del sangue, al fine di valutare la causa dei suoi sintomi.
+
+Data: 02/01/2022
+Ora: 15:00
+
+I risultati degli esami effettuati hanno mostrato segni di polmonite batterica. Di conseguenza, la Dott.ssa Bianca Stein ha prescritto una terapia antibiotica specifica per combattere l'infezione.
+
+Data: 03/01/2022
+Ora: 09:00
+
+Dolores ha mostrato una progressiva miglioramento dei sintomi dopo l'inizio della terapia antibiotica. La sua febbre è diminuita e le difficoltà respiratorie sono diminuite.
+
+Data: 05/01/2022
+Ora: 10:30
+
+Nuovi esami del sangue hanno confermato che l'infezione si sta debellando grazie alla terapia antibiotica. La Dott.ssa Bianca Stein ha deciso di continuare il trattamento per un'altra settimana al fine di garantire una completa guarigione.
+
+Data: 10/01/2022
+Ora: 08:00
+
+Dolores ha mostrato un ulteriore miglioramento generale e ha recuperato la sua normale respirazione. La Dott.ssa Bianca Stein ha consigliato il paziente di sottoporsi a periodiche visite di controllo per monitorare il suo stato di salute. 
+
+Il paziente, Dolores Ottino, resta ancora ricoverato presso l'Ospedale ASST MELEGNANO E DELLA MARTESANA di Vizzolo Predabissi nella Stanza 218, mentre continua il suo percorso di guarigione.

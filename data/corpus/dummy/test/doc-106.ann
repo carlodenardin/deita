@@ -2,7 +2,7 @@ T1	ID 31 36	36441
 T2	Name 52 56	Elmo
 T3	Name 75 83	Costanzi
 T4	Date 110 126	16 dicembre 1922
-T5	Address 147 165;166 190	Incrocio Eraldo, 0 55051, Sommacolonia (LU)
+T5	Address 147 190	Incrocio Eraldo, 0 55051, Sommacolonia (LU)
 T6	Email 207 231	imeldapiazzi@example.net
 T7	SSN 257 273	PGNZRA25R22L487C
 T8	Date 287 303	10 febbraio 2020

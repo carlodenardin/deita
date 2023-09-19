@@ -2,7 +2,7 @@ T1	ID 31 36	98027
 T2	Name 53 60	Camillo
 T3	Name 80 87	Iadanza
 T4	Date 115 125	08/26/1934
-T5	Address 147 166;167 186	Vicolo Dolores, 136 56034, Chianni (PI)
+T5	Address 147 186	Vicolo Dolores, 136 56034, Chianni (PI)
 T6	Name 202 212	Antonietta
 T7	Name 231 237	Cagnin
 T8	Hospital 249 288	AO Univ Consorziale Policlinico di Bari
@@ -24,7 +24,7 @@ T23	ID 1168 1173	98027
 T24	Name 1190 1197	Camillo
 T25	Name 1217 1224	Iadanza
 T26	Date 1252 1262	08/26/1934
-T27	Address 1284 1303;1304 1323	Vicolo Dolores, 136 56034, Chianni (PI)
+T27	Address 1284 1323	Vicolo Dolores, 136 56034, Chianni (PI)
 T28	Name 1339 1349	Antonietta
 T29	Name 1368 1374	Cagnin
 T30	Hospital 1386 1425	AO Univ Consorziale Policlinico di Bari

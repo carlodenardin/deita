@@ -18,7 +18,7 @@ class CRFTagger(TextTagger):
 
     def __init__(self, model, tokenizer: Tokenizer, verbose=False):
         self.tokenizer = tokenizer
-        self.feature_extractor = crf_utils.FEATURE_EXTRACTOR['liu_2015']
+        self.feature_extractor = crf_labeler.liu_feature_extractor
         self.verbose = verbose
 
         model_file = model

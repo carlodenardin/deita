@@ -149,81 +149,20 @@ class SentenceFilterCRF(sklearn_crfsuite.CRF):
             keep_tempfiles=keep_tempfiles,
             trainer_cls=trainer_cls)
 
-    def fit(self, X, y, X_dev=None, y_dev=None):
+    def fit(self, X, y):
+        return super(SentenceFilterCRF, self).fit(X, y)
 
-        return super(SentenceFilterCRF, self).fit(X, y, X_dev=X_dev, y_dev=y_dev)
-
-    def predict(self, X, verbose=False):
-        X = tqdm(X, disable=not verbose, desc='Tag sentences')
+    def predict(self, X, verbose = False):
+        X = tqdm(X, disable = not verbose, desc = 'Tag sentences')
         return super().predict(X)
 
     def predict_single(self, xseq):
-
         return super().predict_single(xseq)
 
     def predict_marginals_single(self, xseq):
-
         return super().predict_marginals_single(xseq)
 
-
-def sklearn_crfsuite_feature_extractor(sent, i):
-    """
-    Taken from:
-    https://sklearn-crfsuite.readthedocs.io/en/latest/tutorial.html
-    """
-    word = sent[i].text
-    pos_tag = sent[i].pos_tag
-
-    features = {
-        'bias': 1.0,
-        'word.lower()': word.lower(),
-        'word[-3:]': word[-3:],
-        'word[-2:]': word[-2:],
-        'word.isupper()': word.isupper(),
-        'word.istitle()': word.istitle(),
-        'word.isdigit()': word.isdigit(),
-        'pos_tag': pos_tag,
-        'pos_tag[:2]': pos_tag[:2],
-    }
-    if i > 0:
-        word1 = sent[i - 1].text
-        pos_tag1 = sent[i - 1].pos_tag
-        features.update({
-            '-1:word.lower()': word1.lower(),
-            '-1:word.istitle()': word1.istitle(),
-            '-1:word.isupper()': word1.isupper(),
-            '-1:pos_tag': pos_tag1,
-            '-1:pos_tag[:2]': pos_tag1[:2],
-        })
-    else:
-        features['BOS'] = True
-
-    if i < len(sent) - 1:
-        word1 = sent[i + 1].text
-        pos_tag1 = sent[i + 1].pos_tag
-        features.update({
-            '+1:word.lower()': word1.lower(),
-            '+1:word.istitle()': word1.istitle(),
-            '+1:word.isupper()': word1.isupper(),
-            '+1:pos_tag': pos_tag1,
-            '+1:pos_tag[:2]': pos_tag1[:2],
-        })
-    else:
-        features['EOS'] = True
-
-    return features
-
-
 def liu_feature_extractor(sent, i):
-    """Reproduces the features used by Liu et al. (2015).
-
-    Does not include word representation (word2vec, brown clusters) and gazetteer features.
-
-    Reference:
-    Liu, Z., et al. (2015). Automatic de-identification of electronic medical records using
-    token-level and character-level conditional random fields. Journal of Biomedical Informatics,
-    58, S47–S52. https://doi.org/10.1016/J.JBI.2015.06.009
-    """
     token = sent[i]
 
     null_token = Token(text='<PAD>', pos_tag='<PAD>', label='', ner_tag=None)
@@ -287,7 +226,8 @@ def ngrams(tokens, N):
 
 
 def list_window(sent: List, center: int, window: Tuple[int, int], oob_item=None) -> List:
-    """Get a window of tokens within a sentence.
+    """
+    Get a window of tokens within a sentence.
 
     Parameters
     ----------

@@ -94,7 +94,7 @@ def run_blistcrf():
     tokenizer = TokenizerFactory()
 
     # Create Model Folder
-    model_folder = generate_model_folder_name(corpus.name)
+    model_folder = generate_model_folder_name(corpus.name, 'blstmcrf')
     os.makedirs(model_folder, exist_ok = True)
 
     # Get Sentences
@@ -148,8 +148,6 @@ def run_blistcrf():
         dev = flair_sents_to_standoff(dev_sentences, dev_documents),
         test = flair_sents_to_standoff(test_sentences, test_documents)
     )
-
-
 
 if __name__ == '__main__':
     run_blistcrf()

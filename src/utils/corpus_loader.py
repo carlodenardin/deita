@@ -9,7 +9,7 @@ from os.path import basename, dirname, join, normpath, splitext
 from typing import List
 import utils.brat as brat
 
-BASE_PATH = join(dirname(__file__), '../../data/corpus/dummy')
+BASE_PATH = join(dirname(__file__), '../../data/corpus/ehr')
 
 def _get_basename(full_path):
         return splitext(basename(full_path))[0]

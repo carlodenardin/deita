@@ -13,8 +13,8 @@ from typing import List
 
 OUTPUT_PATH = join(dirname(__file__), '../../output')
 
-def generate_model_folder_name(corpus_name: str) -> str:
-    return join(OUTPUT_PATH, corpus_name)
+def generate_model_folder_name(corpus_name: str, run_id: str) -> str:
+    return join(OUTPUT_PATH, corpus_name, run_id)
 
 def _save_predictions(path, documents: List[Document]):
     os.makedirs(path, exist_ok=True)
@@ -35,5 +35,5 @@ def save_predictions(
             continue
 
         logger.info('Write {}.{}.{} predictions (N = {})'.format(corpus_name, run_id, part_name, len(part_docs)))
-        base_path = generate_model_folder_name(corpus_name)
+        base_path = generate_model_folder_name(corpus_name, run_id)
         _save_predictions(join(base_path, part_name), part_docs)

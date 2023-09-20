@@ -14,12 +14,6 @@ from sklearn_crfsuite import metrics
 
 import methods.crf.crf_labeler as crf_labeler
 
-FEATURE_EXTRACTOR = {
-    'sklearn_crfsuite': (crf_labeler.sklearn_crfsuite_feature_extractor),
-    'liu_2015': (crf_labeler.liu_feature_extractor)
-}
-
-
 def save_bio_report(y_true, y_pred, labels, out_dir):
     sorted_labels = sorted(
         labels,

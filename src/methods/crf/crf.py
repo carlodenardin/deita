@@ -13,11 +13,11 @@ from utils.train_utils import generate_model_folder_name, save_predictions
 
 def run_crf():
     corpus = CorpusLoader().load_corpus(BASE_PATH)
-    tokenizer = TokenizerFactory().tokenizer('dummy')
+    tokenizer = TokenizerFactory().tokenizer('ehr')
     logger.info('Loaded corpus: {}'.format(corpus))
 
     # Create Model Folder
-    model_folder = generate_model_folder_name(corpus.name)
+    model_folder = generate_model_folder_name(corpus.name, 'crf')
     os.makedirs(model_folder, exist_ok = True)
 
     logger.info('Get sentences...')
@@ -25,7 +25,7 @@ def run_crf():
     test_sents, test_docs = standoff_to_sents(corpus.test, tokenizer, verbose=True)
 
     logger.info('Compute features...')
-    feature_extractor = crf_utils.FEATURE_EXTRACTOR['liu_2015']
+    feature_extractor = crf_labeler.liu_feature_extractor
     X_train, y_train = crf_labeler.sents_to_features_and_labels(train_sents, feature_extractor)
     X_test, _ = crf_labeler.sents_to_features_and_labels(test_sents, feature_extractor)
 
@@ -51,7 +51,7 @@ def run_crf():
     y_pred_train = crf.predict(X_train)
     y_pred_test = crf.predict(X_test)
 
-    save_predictions(corpus_name=corpus.name, run_id='test',
+    save_predictions(corpus_name=corpus.name, run_id='crf',
                                 train=tagging_utils.sents_to_standoff(y_pred_train, train_docs),
                                 test=tagging_utils.sents_to_standoff(y_pred_test, test_docs))
 

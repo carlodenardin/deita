@@ -6,10 +6,10 @@ T5	Email 182 207	letiziagrifeo@example.net
 T6	Name 231 249	Pierpaolo Pennetta
 T7	Email 257 285	eleanorabuscetta@example.org
 T8	Phone 296 309	+39 032219125
-T9	Hospital 333 361	Dipartimento Rizzoli-Sicilia
+T9	Care_Institute 333 361	Dipartimento Rizzoli-Sicilia
 T10	Address 363 371	BAGHERIA
 T11	Name 400 415	Roman Tartaglia
-T12	Hospital 468 496	Dipartimento Rizzoli-Sicilia
+T12	Care_Institute 468 496	Dipartimento Rizzoli-Sicilia
 T13	Address 507 515	Bagheria
 T14	Date 589 603	23 giugno 2010
 T15	Date 722 734	7 marzo 2015
@@ -26,7 +26,7 @@ T25	Name 1378 1396	Pierpaolo Pennetta
 T26	Internal_Location 1531 1540	Ortopedia
 T27	Internal_Location 1679 1690	Cardiologia
 T28	Internal_Location 1823 1839	Medicina Interna
-T29	Hospital 2030 2058	Dipartimento Rizzoli-Sicilia
+T29	Care_Institute 2030 2058	Dipartimento Rizzoli-Sicilia
 T30	Name 2070 2088	Pierpaolo Pennetta
 T31	Name 1969 1984	Roman Tartaglia
 T32	Date 1505 1519	25 giugno 2010

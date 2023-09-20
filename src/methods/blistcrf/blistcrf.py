@@ -1,6 +1,7 @@
 import flair
 import os
 import sys
+import random
 sys.path.append(os.path.join(os.path.dirname(__file__), '../..'))
 
 from flair.embeddings import (FlairEmbeddings, PooledFlairEmbeddings, StackedEmbeddings, TokenEmbeddings, WordEmbeddings)
@@ -82,9 +83,7 @@ def get_model(
                                             tag_type=tag_type)
     return tagger
 
-def run_blistcrf():
-    logger.info('Starting...')
-
+def run_blistcrf(iteration):
     # Load Corpus
     logger.info('Loading corpus...')
     corpus = CorpusLoader().load_corpus(BASE_PATH)
@@ -93,12 +92,16 @@ def run_blistcrf():
     # Create Tokenizer
     tokenizer = TokenizerFactory()
 
-    # Create Model Folder
-    model_folder = generate_model_folder_name(corpus.name, 'blstmcrf')
-    os.makedirs(model_folder, exist_ok = True)
-
     # Get Sentences
     logger.info('Getting sentences...')
+
+    # Select randmly only a subset of the corpus for training
+    corpus.train = random.sample(corpus.train, len(corpus.train) * (iteration * 10) // 100)
+
+    # Create Model Folder
+    model_folder = generate_model_folder_name(corpus.name, f'blstmcrf_{len(corpus.train)}')
+    os.makedirs(model_folder, exist_ok = True)
+
     train_sentences, train_documents = standoff_to_flair_sents(corpus.train, tokenizer)
     test_sentences, test_documents = standoff_to_flair_sents(corpus.test, tokenizer)
     dev_sentences, dev_documents = standoff_to_flair_sents(corpus.dev, tokenizer)
@@ -123,7 +126,7 @@ def run_blistcrf():
     trainer.train(
         base_path = join(model_folder),
         max_epochs = 1,
-        mini_batch_size = 4,
+        mini_batch_size = 8,
         monitor_train = False,
         train_with_dev = False,
         embeddings_storage_mode = 'none',
@@ -150,4 +153,5 @@ def run_blistcrf():
     )
 
 if __name__ == '__main__':
-    run_blistcrf()
+    for i in range(1, 11):
+        run_blistcrf(i)

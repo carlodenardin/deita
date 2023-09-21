@@ -1,4 +1,3 @@
-
 distribution = {
     'Name': 0,
     'Date': 0,
@@ -22,12 +21,23 @@ import os
 categorie_count = {}
 from os.path import join, dirname 
 TRAIN_PATH = join(dirname(__file__), '../../data/corpus/ehr/train')
+DEV_PATH = join(dirname(__file__), '../../data/corpus/ehr/dev')
 TEST_PATH = join(dirname(__file__), '../../data/corpus/ehr/test')
 
 for filename in os.listdir(TRAIN_PATH):
     if filename.endswith(".ann"):
 
         with open(join(TRAIN_PATH, filename), 'r') as file:
+            for line in file:
+                field = line.strip().split('\t')[1].split()[0]
+
+                if field in distribution:
+                    distribution[field] += 1
+
+for filename in os.listdir(DEV_PATH):
+    if filename.endswith(".ann"):
+
+        with open(join(DEV_PATH, filename), 'r') as file:
             for line in file:
                 field = line.strip().split('\t')[1].split()[0]
 
@@ -44,4 +54,19 @@ for filename in os.listdir(TEST_PATH):
                 if field in distribution:
                     distribution[field] += 1
 
-print(distribution)     
+# Order by value
+distribution = {k: v for k, v in sorted(distribution.items(), key=lambda item: item[1], reverse=True)}
+print(distribution)   
+
+# Count total
+total = 0
+for key in distribution:
+    total += distribution[key]
+
+print(total)
+
+# Divide by total
+for key in distribution:
+    distribution[key] = (distribution[key] / total)*100
+
+print(distribution)

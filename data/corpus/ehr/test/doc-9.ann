@@ -8,7 +8,7 @@ T8	Name 344 349	Livia
 T9	Name 368 375	Dibiasi
 T10	Email 392 416	lazzaroioppi@example.org
 T11	Phone 436 450	+39 3448086910
-T12	Organization 476 491	ASST DI MANTOVA
+T12	Hospital 476 491	ASST DI MANTOVA
 T13	Address 493 500	MANTOVA
 T14	Date 538 561	10/03/2015 - 17/03/2015
 T15	Date 712 735	05/07/2016 - 20/07/2016
@@ -24,7 +24,7 @@ T24	Date 1152 1162	25/01/1977
 T25	Address 1188 1230	Contrada Tonia, 633 a Chiusa Sclafani (PA)
 T26	Date 1267 1277	marzo 2015
 T27	Internal_Location 1303 1325	reparto di Cardiologia
-T28	Organization 1331 1346	ASST DI MANTOVA
+T28	Hospital 1331 1346	ASST DI MANTOVA
 T29	Internal_Location 1537 1548	luglio 2016
 T30	Internal_Location 1585 1605	reparto di Ortopedia
 T31	Name 1843 1849	Rosina
@@ -32,7 +32,7 @@ T32	Internal_Location 1873 1895	reparto di Pneumologia
 T33	Date 1828 1841	febbraio 2018
 T34	Name 2154 2167	Livia Dibiasi
 T35	Phone 2249 2263	+39 3448086910
-T36	Organization 2189 2204	ASST DI MANTOVA
+T36	Hospital 2189 2204	ASST DI MANTOVA
 T5	Address 180 199	Contrada Tonia, 633
 T37	Address 202 207	90033
 T38	Address 209 229	Chiusa Sclafani (PA)

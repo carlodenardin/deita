@@ -6,10 +6,10 @@ T5	Name 141 155	Gian Tomasetti
 T6	Name 421 438	Goffredo Rosselli
 T7	Email 446 467	ezamorani@example.net
 T8	Phone 478 488	0425082971
-T9	Care_Institute 512 537	IRCCS AOU S.MARTINO - IST
+T9	Hospital 512 537	IRCCS AOU S.MARTINO - IST
 T10	Address 539 545	GENOVA
 T11	Name 651 665	Gian Tomasetti
-T12	Care_Institute 724 749	IRCCS AOU S.MARTINO - IST
+T12	Hospital 724 749	IRCCS AOU S.MARTINO - IST
 T13	Address 752 758	Genova
 T14	Date 871 881	24-03-2010
 T15	Date 892 931	5 giorni (dal 24-03-2010 al 29-03-2010)

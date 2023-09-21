@@ -6,12 +6,12 @@ T5	SSN 181 197	LNCMRK33R61C181I
 T6	Name 221 237	Mariano Traversa
 T7	Email 252 272	kpertini@example.org
 T8	Phone 290 300	0426020813
-T9	Care_Institute 324 352	INMI 'L.SPALLANZANI' - IRCCS
+T9	Hospital 324 352	INMI 'L.SPALLANZANI' - IRCCS
 T10	Address 354 358	Roma
 T11	Name 377 394	Arnulfo Malipiero
 T12	Age 412 419	47 anni
 T13	Address 432 436	Roma
-T14	Care_Institute 479 508	'INMI 'L.SPALLANZANI' - IRCCS
+T14	Hospital 479 508	'INMI 'L.SPALLANZANI' - IRCCS
 T15	Date 566 576	12-03-2015
 T16	Date 586 594	5 giorni
 T17	Date 857 865	7 giorni

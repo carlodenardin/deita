@@ -1,13 +1,13 @@
-import os
-import spacy
-import sys
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-
 from abc import ABC, abstractmethod
-from loguru import logger
 from typing import Iterable
 
-NLP = spacy.load('it_core_news_sm')
+import spacy
+from loguru import logger
+
+import sys
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+
 
 class Tokenizer(ABC):
 
@@ -23,8 +23,9 @@ class Tokenizer(ABC):
         """
         self.disable = disable
 
+    @abstractmethod
     def parse_text(self, text: str) -> spacy.tokens.doc.Doc:
-        return NLP(text)
+        pass
 
 
 class TokenizerFactory():
@@ -35,9 +36,6 @@ class TokenizerFactory():
     """
 
     @staticmethod
-    def tokenizer(disable: Iterable[str] = ()):
+    def tokenizer(corpus: str, disable: Iterable[str] = ()):
         from tokenizer.tokenizer_it import TokenizerIT
         return TokenizerIT(disable=disable)
-    
-    def parse_text(self, text: str) -> spacy.tokens.doc.Doc:
-        return NLP(text)

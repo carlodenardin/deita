@@ -65,7 +65,7 @@ def _print_state_features(state_features, file):
         print("{:.4f} {:<25} {}".format(weight, label, attr), file=file)
 
 
-def plot_random_search_parameter_pair(out_file, cv_results, param_x, param_y, title=None):
+def plot_random_search_parameter_pair(out_file, cv_results, param_x, param_y, title = None):
     _x = [run[param_x] for run in cv_results['params']]
     _y = [run[param_y] for run in cv_results['params']]
     _c = cv_results['mean_test_score']

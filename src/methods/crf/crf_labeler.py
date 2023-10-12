@@ -1,9 +1,5 @@
-"""CRF training utilities.
-
-Two feature sets are provided:
-
-   1. Default feature set by sklearn_crfsuite
-   2. Liu et al. (2015) features used in de-identification shared task.
+"""
+CRF training utilities based on the feature set: Liu et al. (2015) features used in de-identification shared task.
 
 Features are encoded in python-crfsuite format:
 https://python-crfsuite.readthedocs.io/en/latest/pycrfsuite.html#pycrfsuite.ItemSequence
@@ -15,19 +11,18 @@ import re
 import string
 from typing import Callable, Dict, List, Tuple
 
-import sklearn_crfsuite
-from tqdm import tqdm
 from unidecode import unidecode
-
 from utils.tagging_utils import Token
 
 NEWLINE_REGEX = re.compile(r'\n')
 SPACE_REGEX = re.compile(r'\s')
 
-
-def sent2features(sent: List[Token],
-                  feature_extractor: Callable[[List[Token], int], Dict]) -> List[Dict]:
-    """Convert a sentence to features in python-crfsuite format.
+def sent2features(
+    sent: List[Token],
+    feature_extractor: Callable[[List[Token], int], Dict]
+) -> List[Dict]:
+    """
+    Convert a sentence to features in python-crfsuite format.
 
     python-crfsuite can't handle feature values that contain whitespace or newline characters. These
     characters are replaced with a special #SPACE and #NEWLINE token.
@@ -66,101 +61,13 @@ def sent2features(sent: List[Token],
 
     return sent_features
 
-
 def sent2labels(sent):
     return [token.label for token in sent]
-
 
 def sents_to_features_and_labels(sents, feature_extractor):
     X = [sent2features(s, feature_extractor) for s in sents]
     y = [sent2labels(s) for s in sents]
     return X, y
-
-
-class SentenceFilterCRF(sklearn_crfsuite.CRF):
-    """Custom CRF implementation that allows to ignore entire sentences during training/prediction
-    time. A default label will be assigned to all tokens within that sentence.
-
-    The confidence of predictions within ignored sentences is set to 1.
-    """
-
-    # pylint: disable=too-many-arguments
-    # pylint: disable=R0914
-    # scikit-learn estimators explicitly have to mention keyword arguments (no *args, **kwargs)
-    def __init__(self,
-                 ignored_label,
-                 algorithm=None,
-                 min_freq=None,
-                 all_possible_states=None,
-                 all_possible_transitions=None,
-                 c1=None,
-                 c2=None,
-                 max_iterations=None,
-                 num_memories=None,
-                 epsilon=None,
-                 period=None,
-                 delta=None,
-                 linesearch=None,
-                 max_linesearch=None,
-                 calibration_eta=None,
-                 calibration_rate=None,
-                 calibration_samples=None,
-                 calibration_candidates=None,
-                 calibration_max_trials=None,
-                 pa_type=None,
-                 c=None,
-                 error_sensitive=None,
-                 averaging=None,
-                 variance=None,
-                 gamma=None,
-                 verbose=False,
-                 model_filename=None,
-                 keep_tempfiles=False,
-                 trainer_cls=None):
-        self.ignored_label = ignored_label
-
-        super(SentenceFilterCRF, self).__init__(
-            algorithm=algorithm,
-            min_freq=min_freq,
-            all_possible_states=all_possible_states,
-            all_possible_transitions=all_possible_transitions,
-            c1=c1,
-            c2=c2,
-            max_iterations=max_iterations,
-            num_memories=num_memories,
-            epsilon=epsilon,
-            period=period,
-            delta=delta,
-            linesearch=linesearch,
-            max_linesearch=max_linesearch,
-            calibration_eta=calibration_eta,
-            calibration_rate=calibration_rate,
-            calibration_samples=calibration_samples,
-            calibration_candidates=calibration_candidates,
-            calibration_max_trials=calibration_max_trials,
-            pa_type=pa_type,
-            c=c,
-            error_sensitive=error_sensitive,
-            averaging=averaging,
-            variance=variance,
-            gamma=gamma,
-            verbose=verbose,
-            model_filename=model_filename,
-            keep_tempfiles=keep_tempfiles,
-            trainer_cls=trainer_cls)
-
-    def fit(self, X, y):
-        return super(SentenceFilterCRF, self).fit(X, y)
-
-    def predict(self, X, verbose = False):
-        X = tqdm(X, disable = not verbose, desc = 'Tag sentences')
-        return super().predict(X)
-
-    def predict_single(self, xseq):
-        return super().predict_single(xseq)
-
-    def predict_marginals_single(self, xseq):
-        return super().predict_marginals_single(xseq)
 
 def liu_feature_extractor(sent, i):
     token = sent[i]
@@ -216,14 +123,11 @@ def liu_feature_extractor(sent, i):
 
     return features
 
-
 def join_features(feature_list):
     return '|'.join(feature_list)
 
-
 def ngrams(tokens, N):
     return [tuple(tokens[i:i + N]) for i in range(len(tokens) - N + 1)]
-
 
 def list_window(sent: List, center: int, window: Tuple[int, int], oob_item=None) -> List:
     """
@@ -257,14 +161,12 @@ def list_window(sent: List, center: int, window: Tuple[int, int], oob_item=None)
             tokens.append(sent[i])
     return tokens
 
-
-def _ngram_feature_group(tokens, N, group_name, sep=join_features):
+def _ngram_feature_group(tokens, N, group_name, sep = join_features):
     features = {}
     token_ngrams = ngrams(tokens, N)
     for j, item in enumerate(token_ngrams):
         features['{}.{}'.format(group_name, j)] = sep(item)
     return features
-
 
 def has_unmatched_bracket(sent):
     n_open = 0

@@ -17,7 +17,7 @@ from tqdm import tqdm
 
 from models.annotation import Annotation
 from models.document import Document
-from tokenizer.base import TokenizerFactory
+from tokenizer.base import Tokenizer
 
 Token = namedtuple('Token', ['text', 'pos_tag', 'label', 'ner_tag'])
 ParsedDoc = namedtuple('ParsedDoc', ['spacy_doc', 'name', 'text'])
@@ -29,7 +29,7 @@ warnings.filterwarnings('ignore', message=r'.*W030.*')
 
 
 def standoff_to_sents(docs: List[Document],
-                      tokenizer: TokenizerFactory,
+                      tokenizer: Tokenizer,
                       verbose=False) -> Tuple[List[List[Token]], List[ParsedDoc]]:
     """Convert corpus into list of BIO tagged sentences.
 

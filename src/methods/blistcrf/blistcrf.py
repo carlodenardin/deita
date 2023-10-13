@@ -59,7 +59,7 @@ def run_blistcrf(iteration):
     corpus.train = random.sample(corpus.train, len(corpus.train) * (iteration * 10) // 100)
 
     # Create Model Folder
-    model_folder = generate_model_folder_name(corpus.name, f'bilstmcrf_{len(corpus.train)}')
+    model_folder = generate_model_folder_name(corpus.name, f'bilstmcrf_{iteration * 10}')
     os.makedirs(model_folder, exist_ok = True)
 
     # Get Sentences
@@ -113,12 +113,12 @@ def run_blistcrf(iteration):
 
     save_predictions(
         corpus_name = corpus.name,
-        run_id = f'bilstmcrf{(iteration * 20)}/predictions',
+        run_id = f'bilstmcrf{(iteration * 10)}/predictions',
         train = flair_sents_to_standoff(train_sentences, train_documents),
         dev = flair_sents_to_standoff(dev_sentences, dev_documents),
         test = flair_sents_to_standoff(test_sentences, test_documents)
     )
 
 if __name__ == '__main__':
-    for i in range(1, 2):
+    for i in range(1, 11):
         run_blistcrf(i)

@@ -19,10 +19,10 @@ def run_crf(iteration):
     logger.info('Loaded corpus: {}'.format(corpus))
 
     # Select randmly only a subset of the corpus for training '''len(corpus.train) * (iteration * 20) // 100'''
-    corpus.train = random.sample(corpus.train, 1)
+    corpus.train = random.sample(corpus.train, len(corpus.train) * (iteration * 10) // 100)
 
     # Create Model Folder
-    model_folder = generate_model_folder_name(corpus.name, f'crf_{(iteration * 20)}')
+    model_folder = generate_model_folder_name(corpus.name, f'crf_{(iteration * 10)}')
     os.makedirs(model_folder, exist_ok = True)
 
     logger.info('Get and Tokenize sentences...')
@@ -59,7 +59,7 @@ def run_crf(iteration):
 
     save_predictions(
         corpus_name = corpus.name,
-        run_id = f'crf_{(iteration * 20)}/predictions',
+        run_id = f'crf_{(iteration * 10)}/predictions',
         train = tagging_utils.sents_to_standoff(y_pred_train, train_docs),
         dev = tagging_utils.sents_to_standoff(y_pred_dev, dev_docs),
         test = tagging_utils.sents_to_standoff(y_pred_test, test_docs)
@@ -74,5 +74,5 @@ def run_crf(iteration):
     crf_utils.persist_model(crf, model_folder)
 
 if __name__ == '__main__':
-    for i in range(1, 2):
+    for i in range(1, 11):
         run_crf(i)

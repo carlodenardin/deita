@@ -3,7 +3,7 @@ curl https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe -o
 start /wait "" miniconda.exe /S
 del miniconda.exe
 
-Anaconda Prompt (miniconda3)
+Open Anaconda Prompt (miniconda3) and write the Common steps
 
 # MacOS
 mkdir -p ~/miniconda3
@@ -15,6 +15,8 @@ rm -rf ~/miniconda3/miniconda.sh
 
 # Common steps
 conda create --name deita python=3.7.9
+
+conda activate deita
 
 pip install -r requirements.txt
 

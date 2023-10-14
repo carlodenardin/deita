@@ -97,7 +97,7 @@ def run_blistcrf(iteration):
 
     trainer.train(
         base_path = join(model_folder),
-        max_epochs = 1,
+        max_epochs = 30,
         mini_batch_size = 8,
         monitor_train = False,
         train_with_dev = False,

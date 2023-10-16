@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
+import uvicorn
 
 class Input(BaseModel):
     text: str
@@ -13,3 +14,6 @@ def hello_world():
 @app.post("/api/python/ehr")
 def ehr(input: Input):
     return {"output": input.text}
+
+if __name__ == '__main__':
+    uvicorn.run(app, host='0.0.0.0', port=8000)

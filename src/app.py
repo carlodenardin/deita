@@ -14,22 +14,19 @@ class Input(BaseModel):
 
 app = FastAPI()
 
-@app.get("/api/python")
-def hello_world():
-    text = (
-        "Il paziente Mario Rossi ha 22 anni e vive a Milano."
-    )
+@app.post("/api/python/v1")
+def hello_world(input: Input):
     documents = [
-        Document(name='doc_01', text=text)
+        Document(name='doc_01', text=input.text)
     ]
-    model = 'src/best-model.pt'
+    model = 'src/bilstmcrf.pt'
 
     tokenizer = TokenizerFactory().tokenizer(corpus='ehr')
 
-    print("AAA")
     tagger = BlistCRFTagger(model = model, tokenizer = tokenizer, verbose = False)
 
     annotated_docs = tagger.annotate(documents)
+
     return {"output": annotated_docs[0]}
 
 if __name__ == '__main__':

@@ -18,6 +18,7 @@ class Input(BaseModel):
 app = FastAPI()
 
 origins = [
+    "https://deita.vercel.app",
     "http://localhost:3000",
 ]
 

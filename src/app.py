@@ -50,7 +50,7 @@ def hello_world(input: Input):
     tokenizer = TokenizerFactory().tokenizer(corpus='ehr')
 
     print('Tagging...')
-    tagger = BlistCRFTagger(model = model, tokenizer = tokenizer, verbose = False)
+    tagger = BlistCRFTagger(model = model, tokenizer = tokenizer, mini_batch_size = 32, verbose = False)
 
     print('Annotating...')
     annotated_docs = tagger.annotate(documents)

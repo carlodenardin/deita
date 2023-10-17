@@ -44,8 +44,10 @@ def hello_world(input: Input):
         print('Model does not exist')
         return {"output": "Model does not exist"}
 
+    print('Tokenizing...')
     tokenizer = TokenizerFactory().tokenizer(corpus='ehr')
 
+    print('Tagging...')
     tagger = BlistCRFTagger(model = model, tokenizer = tokenizer, verbose = False)
 
     annotated_docs = tagger.annotate(documents)

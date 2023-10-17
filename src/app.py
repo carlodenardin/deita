@@ -50,6 +50,7 @@ def hello_world(input: Input):
     print('Tagging...')
     tagger = BlistCRFTagger(model = model, tokenizer = tokenizer, verbose = False)
 
+    print('Annotating...')
     annotated_docs = tagger.annotate(documents)
 
     return {"output": annotated_docs[0]}

@@ -32,6 +32,8 @@ app.add_middleware(
 @app.post("/api/python/v1")
 def hello_world(input: Input):
 
+    print('Input: ', input.text)
+
     documents = [
         Document(name='doc_01', text=input.text)
     ]

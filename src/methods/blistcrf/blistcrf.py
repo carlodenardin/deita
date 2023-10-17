@@ -98,7 +98,7 @@ def run_blistcrf(iteration):
     trainer.train(
         base_path = join(model_folder),
         max_epochs = 30,
-        mini_batch_size = 8,
+        mini_batch_size = 32,
         monitor_train = False,
         train_with_dev = False,
         embeddings_storage_mode = 'none',
@@ -113,7 +113,7 @@ def run_blistcrf(iteration):
 
     save_predictions(
         corpus_name = corpus.name,
-        run_id = f'bilstmcrf{(iteration * 10)}/predictions',
+        run_id = f'bilstmcrf_{(iteration * 10)}/predictions',
         train = flair_sents_to_standoff(train_sentences, train_documents),
         dev = flair_sents_to_standoff(dev_sentences, dev_documents),
         test = flair_sents_to_standoff(test_sentences, test_documents)

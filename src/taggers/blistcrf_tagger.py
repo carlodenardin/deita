@@ -5,6 +5,8 @@ sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from taggers.base import TextTagger
 from typing import List
 
+from taggers.base import lookup_model
+
 from flair.models import SequenceTagger
 from loguru import logger
 
@@ -19,7 +21,7 @@ class BlistCRFTagger(TextTagger):
         self.mini_batch_size = mini_batch_size
         self.verbose = verbose
 
-        model_file = model
+        model_file = lookup_model(model)
         logger.info('Load flair model from {}'.format(model_file))
         self.tagger = SequenceTagger.load(model_file)
         logger.info('Finish loading flair model.')

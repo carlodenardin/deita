@@ -36,7 +36,7 @@ def hello_world(input: Input):
         Document(name='doc_01', text=input.text)
     ]
 
-    model = 'root/deita/src/bilstmcrf.pt'
+    model = 'src/bilstmcrf.pt'
 
     if os.path.isfile(model):
         print('Model exists')

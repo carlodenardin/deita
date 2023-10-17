@@ -1,4 +1,5 @@
 import os
+import os.path
 import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), ''))
 
@@ -30,10 +31,18 @@ app.add_middleware(
 
 @app.post("/api/python/v1")
 def hello_world(input: Input):
+
     documents = [
         Document(name='doc_01', text=input.text)
     ]
-    model = 'src/bilstmcrf.pt'
+
+    model = 'root/deita/src/bilstmcrf.pt'
+
+    if os.path.isf9ile(model):
+        print('Model exists')
+    else:
+        print('Model does not exist')
+        return {"output": "Model does not exist"}
 
     tokenizer = TokenizerFactory().tokenizer(corpus='ehr')
 

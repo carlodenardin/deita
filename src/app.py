@@ -38,7 +38,7 @@ def hello_world(input: Input):
 
     model = 'root/deita/src/bilstmcrf.pt'
 
-    if os.path.isf9ile(model):
+    if os.path.isfile(model):
         print('Model exists')
     else:
         print('Model does not exist')

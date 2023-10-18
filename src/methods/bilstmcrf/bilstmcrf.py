@@ -8,8 +8,8 @@ from flair.embeddings import StackedEmbeddings, TokenEmbeddings
 from flair.models import SequenceTagger
 from flair.trainers import ModelTrainer
 from loguru import logger
-from methods.blistcrf.flair_utils import flair_sents_to_standoff, standoff_to_flair_sents
-from methods.blistcrf.embeddings import get_embeddings
+from methods.bilstmcrf.flair_utils import flair_sents_to_standoff, standoff_to_flair_sents
+from methods.bilstmcrf.embeddings import get_embeddings
 from os.path import join
 from utils.corpus_loader import CorpusLoader, BASE_PATH
 from utils.train_utils import generate_model_folder_name, save_predictions

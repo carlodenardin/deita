@@ -7,7 +7,7 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 import uvicorn
 from models.document import Document
-from src.taggers.bilstmcrf_tagger import BiLSTMCRFTagger
+from taggers.bilstmcrf_tagger import BiLSTMCRFTagger
 from taggers.crf_tagger import CRFTagger
 from tokenizer.base import TokenizerFactory
 

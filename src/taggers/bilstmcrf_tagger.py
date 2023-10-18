@@ -11,10 +11,10 @@ from flair.models import SequenceTagger
 from loguru import logger
 
 from models.document import Document
-from methods.blistcrf import flair_utils
+from methods.bilstmcrf import flair_utils
 from tokenizer.base import Tokenizer
 
-class BlistCRFTagger(TextTagger):
+class BiLSTMCRFTagger(TextTagger):
     
     def __init__(self, model, tokenizer: Tokenizer, mini_batch_size=256, verbose=False):
         self.tokenizer = tokenizer

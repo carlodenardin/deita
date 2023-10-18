@@ -7,7 +7,8 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 import uvicorn
 from models.document import Document
-from taggers.blistcrf_tagger import BlistCRFTagger
+from src.taggers.bilstmcrf_tagger import BiLSTMCRFTagger
+from taggers.crf_tagger import CRFTagger
 from tokenizer.base import TokenizerFactory
 
 from fastapi.middleware.cors import CORSMiddleware
@@ -33,30 +34,30 @@ app.add_middleware(
 @app.post("/api/python/v1")
 def hello_world(input: Input):
 
-    print('Input: ', input.text)
-
-    documents = [
+    document = [
         Document(name='doc_01', text=input.text)
     ]
 
-    model = 'src/bilstmcrf.pt'
+    model_bilstmcrf = 'src/bilstmcrf.pt'
+    model_crf = 'src/crf.pickle'
 
-    if os.path.isfile(model):
+    if os.path.isfile(model_bilstmcrf) & os.path.isfile(model_crf):
         print('Model exists')
     else:
-        print('Model does not exist')
-        return {"output": "Model does not exist"}
+        return {"output": "Models not found! Contact the administrator."}
 
     print('Tokenizing...')
     tokenizer = TokenizerFactory().tokenizer(corpus='ehr')
 
     print('Tagging...')
-    tagger = BlistCRFTagger(model = model, tokenizer = tokenizer, mini_batch_size = 32, verbose = False)
+    tagger_bilstmcrf = BiLSTMCRFTagger(model = model_bilstmcrf, tokenizer = tokenizer, mini_batch_size = 32, verbose = False)
+    tagger_crf = CRFTagger(model = model_crf, tokenizer = tokenizer, verbose = False)
 
     print('Annotating...')
-    annotated_docs = tagger.annotate(documents)
+    annotated_docs_bilstmcrf = tagger_bilstmcrf.annotate(document)
+    annotated_docs_crf = tagger_crf.annotate(document)
 
-    return {"output": annotated_docs[0]}
+    return {"bilstmcrf": annotated_docs_bilstmcrf[0], "crf": annotated_docs_crf[0]}
 
 if __name__ == '__main__':
     uvicorn.run(app, host='0.0.0.0', port=8000)

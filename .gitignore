@@ -1,3 +1,4 @@
 output/
 results/
 src/bilstmcrf.pt
+src/crf.pickle

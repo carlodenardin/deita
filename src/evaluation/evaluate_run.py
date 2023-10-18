@@ -51,13 +51,7 @@ def evaluate(documents_path, gold_path, pred_path, language='nl'):
 def main(args):
     evaluator = evaluate(args.documents_path, args.gold_path, args.pred_path, args.language)
 
-    print()
     print(evaluator.entity_level())
-    print()
-    print(evaluator.token_level())
-    print()
-    print(evaluator.token_level_blind())
-
 
 def arg_parser():
     parser = argparse.ArgumentParser()
@@ -66,7 +60,6 @@ def arg_parser():
     parser.add_argument("gold_path", help="Path to gold *.ann files")
     parser.add_argument("pred_path", help="Path to predicted *.ann files")
     return parser.parse_args()
-
 
 if __name__ == '__main__':
     main(arg_parser())

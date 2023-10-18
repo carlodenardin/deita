@@ -74,5 +74,4 @@ def run_crf(iteration):
     crf_utils.persist_model(crf, model_folder)
 
 if __name__ == '__main__':
-    for i in range(1, 11):
-        run_crf(i)
+    run_crf(1)

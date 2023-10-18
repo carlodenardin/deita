@@ -57,6 +57,9 @@ def hello_world(input: Input):
     annotated_docs_bilstmcrf = tagger_bilstmcrf.annotate(document)
     annotated_docs_crf = tagger_crf.annotate(document)
 
+    print(annotated_docs_bilstmcrf[0])
+    print(annotated_docs_crf[0])
+
     return {"bilstmcrf": annotated_docs_bilstmcrf[0], "crf": annotated_docs_crf[0]}
 
 if __name__ == '__main__':
